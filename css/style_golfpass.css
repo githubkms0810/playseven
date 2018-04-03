@@ -1,0 +1,129 @@
+p {
+    font-size: 20px;
+}
+
+.myContent {
+    height: 800px;
+    color: white;
+}
+
+
+.intro_video {
+    margin: 0 auto;
+    padding: 0;
+    width: 500px;
+    height: 100%;
+    z-index: 99999;
+}
+
+video {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    max-width: 100%;
+    max-height: 100%;
+    width: 500px;
+    height: 400px;
+    background-color: #000;
+}
+
+.info_content {
+    padding-top: 10%;
+}
+
+.golfpass p {
+    color: #fff;
+}
+
+.golfpass_container {
+    /*background: rgba(255, 255, 255, 0.25);*/
+    height: 100%;
+    width: 100%;
+}
+
+#golfpass1 {
+    background-image: url(/imgs/golfpass1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#golfpass2 {
+    background-image: url(/imgs/golfpass3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.golfpass {
+    padding-top: 13%;
+}
+
+.golfpass_all {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.golfpass-title {
+    font-size: 60px;
+    color: white;
+    max-width: 50%;
+    margin: 0 auto;
+}
+
+.golfpass_link {
+    font-size: 20px;
+    color: #333;
+    padding-left: 20px;
+    height: 70px;
+    padding-top: 20px;
+}
+
+.golfpass_content {
+    width: 50%;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+.golfpass-btn_list {
+    position: relative;
+    background-color: transparent;
+}
+
+.golfpass-btn_list > li {
+    float: left;
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+.golfpass-btn_start {
+    background-color: darksalmon;
+    text-align: center;
+    padding: 15px 50px 15px 50px;
+    border-radius: 3px;
+}
+
+.golfpass-btn_method {
+    background-color: darkseagreen;
+    text-align: center;
+    padding: 15px 50px 15px 50px;
+    border-radius: 3px;
+}
+
+.golfpass-btn {
+    margin-top: 70px;
+    margin-left: 10%;
+    position: absolute;
+}
+
+
+.footer0{width:100%; padding:40px 0; position:relative; background:#1c1c1c; text-align:center}
+.foot-menu{position:relative;}
+.foot-menu li{display:inline-block; margin-right:45px}
+.foot-menu li:nth-last-child(1){margin-right:0}
+.foot-menu li a{color:#ffffff; font-size:12px}
+.footer0 .social{position:relative; margin:30px 0 0 0}
+.footer0 .social li{display:inline-block; margin-right:35px}
+.footer0 .social li:nth-last-child(1){margin-right:0}
+.footer0 .copy{font-size:12px; color:#797778; padding:20px 0 0 0}
+.footer0 .copy p{margin:10px 0 0 0}

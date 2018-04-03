@@ -1,0 +1,94 @@
+
+.jhs-slider {
+    min-width: 284px;
+    height: 100%;
+    /* 후손요소들 중 absolute가 있어요. 그래서 이 코드로 후손 absolute 요소들을 가둬둡니다. */
+    position: relative;
+}
+
+/* 슬라이드 */
+
+.jhs-slider .slides > div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    /* absolute 요소들 간 우선순위, 숫자가 높을 수록 보여지는 우선순위가 높아집니다. */
+    z-index: 1;
+    opacity: 0;
+    /* 이미지 페이드아웃, 페이드인 효과 */
+    transition: opacity 0.5s;
+}
+
+/* active 클래스를 가진 슬라이드는 불투명도를 1로 줘서 보이도록 처리 */
+
+.jhs-slider .slides > div.active {
+    opacity: 1;
+}
+
+.jhs-slider .side-bar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 40%;
+    bottom: 0;
+    z-index: 2;
+    /* 자식요소인 i 가 display:table-cell 이기 위해서는 부모가 display:table 이여야 한다. */
+    cursor: pointer;
+}
+
+.jhs-slider .side-bar.right {
+    left: 60%;
+}
+
+.jhs-slider .side-bar:hover {
+    background: linear-gradient(to right, rgba(45, 45, 45, 0.5), rgba(255, 255, 255, 0));
+}
+
+.jhs-slider .side-bar.right:hover {
+    background: linear-gradient(to left, rgba(45, 45, 45, 0.5), rgba(255, 255, 255, 0));
+}
+
+.jhs-slider .side-bar i {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 10px;
+    opacity: 0;
+    /* table-cell 이면 수직 중앙정렬이 가능하다. */
+    /* 수직 중앙정렬 */
+}
+
+.jhs-slider .side-bar.right i {
+    left: auto;
+    right: 10px;
+}
+
+.jhs-slider .side-bar:hover i {
+    opacity: 0.5;
+}
+
+.jhs-slider .side-bar:active i::before {
+    position: relative;
+    top: 2px;
+}
+
+
+/* 테이블 소스코드 */
+
+.tb1 {
+    width: 483px;
+    height: 340px;
+    padding-top: 21px;
+    padding-left: 22px;
+    margin: 0 auto;
+}
+
+.tb1 .jhs-slider {
+    height: 77.3%;
+    width: 95.2%;
+}
