@@ -7,13 +7,13 @@
 
 #sliderFrame {
     position: relative;
-
+    padding-top: 15px;
 }
 
 #slider,
 #slider .sliderInner {
-    width: 458px;
-    height: 262px;
+    width: 488px;
+    height: 305px;
     /* Must be the same size as the slider images */
     border-radius: 0px;
 }
@@ -24,6 +24,7 @@
     margin: 0 auto;
     /*center-aligned*/
     transform: translate3d(0, 0, 0);
+
 }
 
 /* the link style (if slide image is wrapped by a link) */
