@@ -140,7 +140,7 @@ html.fp-enabled,
 .fp-slidesNav ul li {
     display: block;
     width: 20px;
-    height: 13px;
+    height: 15px;
     margin: 15px;
     position:relative;
 }
@@ -161,33 +161,26 @@ html.fp-enabled,
 .fp-slidesNav ul li a.active span,
 #fp-nav ul li:hover a.active span,
 .fp-slidesNav ul li:hover a.active span{
-    height: 12px;
-    width: 12px;
-    margin: -6px 0 0 -6px;
+    height: 14px;
+    width: 14px;
     border-radius: 100%;
+    opacity: 1;
  }
 #fp-nav ul li a span,
 .fp-slidesNav ul li a span {
     border-radius: 50%;
     position: absolute;
     z-index: 1;
-    height: 4px;
-    width: 4px;
+    height: 14px;
+    width: 14px;
     border: 0;
-    background: #d88683;
-    left: 50%;
-    top: 50%;
-    margin: -2px 0 0 -2px;
-    -webkit-transition: all 0.1s ease-in-out;
-    -moz-transition: all 0.1s ease-in-out;
-    -o-transition: all 0.1s ease-in-out;
-    transition: all 0.1s ease-in-out;
+    background: #fff;
+    opacity: 0.5
 }
 #fp-nav ul li:hover a span,
 .fp-slidesNav ul li:hover a span{
-    width: 10px;
-    height: 10px;
-    margin: -5px 0px 0px -5px;
+    width: 14px;
+    height: 14px;
 }
 #fp-nav ul li .fp-tooltip {
     position: absolute;
@@ -211,7 +204,7 @@ html.fp-enabled,
     opacity: 1;
 }
 #fp-nav ul li .fp-tooltip.right {
-    right: 20px;
+    right: 25px;
 }
 #fp-nav ul li .fp-tooltip.left {
     left: 20px;
