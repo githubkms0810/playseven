@@ -79,14 +79,38 @@ html.fp-enabled,
 }
 .fp-controlArrow.fp-prev {
     left: 15px;
-    width: 0;
-    border-width: 38.5px 34px 38.5px 0;
-    border-color: transparent #fff transparent transparent;
+    width: 60px;
+    height: 110px;
+    background-image: url(/imgs/left-arrow.png);
+    background-repeat: no-repeat;
+    border: none;
+    opacity: 0.5;
+}
+.fp-controlArrow.fp-prev:hover {
+    opacity: 1;
 }
 .fp-controlArrow.fp-next {
     right: 15px;
-    border-width: 38.5px 0 38.5px 34px;
-    border-color: transparent transparent transparent #fff;
+    width: 60px;
+    height: 110px;
+    background-image: url(/imgs/right-arrow.png);
+    background-repeat: no-repeat;
+    border: none;
+    opacity: 0.5;
+    
+     transition: opacity .50s;
+    -o-transition: opacity .50s;
+    -moz-transition: opacity .50s;
+    -webkit-transition: opacity .50s;
+}
+
+.fp-controlArrow.fp-next:hover {
+    opacity: 1;
+    
+    transition: opacity .50s;
+    -o-transition: opacity .50s;
+    -moz-transition: opacity .50s;
+    -webkit-transition: opacity .50s;
 }
 .fp-scrollable {
     overflow: hidden;
