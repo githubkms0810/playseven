@@ -89,10 +89,10 @@
 #thumbs {
     position: absolute;
     top: 0;
-    margin-left: 85%;
+    margin-left: 70%;
     /* position it in the middle of #sliderFrame */
     width: 330px;
-    margin-top: -25px;
+    margin-top: 30px;
 
 }
 
@@ -114,7 +114,7 @@
 }
 
 #thumbs .thumb-on {
-    border: 3px solid #000;
+    border: 3px solid #ff0;
     border-radius: 5px;
 }
 
