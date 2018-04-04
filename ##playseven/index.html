@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>PLAYSEVEN | 꽃 우는 붙잡아</title>
+    <meta name="description" content="옷을 풍부하게 현저하게 심장의 크고 이것이다">
+    <link rel="canonical" href="http://www.playseven.co.kr">
+    <link rel="shortcut icon" href="imgs/favicon.ico">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://www.playseven.co.kr">
+    <meta property="og:image" content="imgs/thum.jpg">
+    <meta property="og:title" content="PLAYSEVEN | 꽃 우는 붙잡아">
+    <meta property="og:description" content="옷을 풍부하게 현저하게 심장의 크고 이것이다">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link rel="stylesheet" type="text/css" href="css/jquery.fullPage.css" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/slider_style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <link href="slider/js-image-slider.css" rel="stylesheet" type="text/css" />
+    <script src="slider/js-image-slider.js" type="text/javascript"></script>
+    <!--footer-->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css" integrity="sha384-OHBBOqpYHNsIqQy8hL1U+8OXf9hH6QRxi0+EODezv82DfnZoV7qoHAZDwMwEJvSw" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" integrity="sha384-OHBBOqpYHNsIqQy8hL1U+8OXf9hH6QRxi0+EODezv82DfnZoV7qoHAZDwMwEJvSw" crossorigin="anonymous">
+    <script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js"></script>
+    <script type="text/javascript" src="js/scrolloverflow.js"></script>
+    <script type="text/javascript" src="js/jquery.fullPage.js"></script>
+    <script type="text/javascript" src="js/footer-animation.js"></script>
+    <script src="js/scrollreveal.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $('#fullpage').fullpage({
+                css3: true,
+                anchors: ['firstPage', 'secondPage', '3rdPage', '4thPage'],
+                sectionsColor: ['#fab7b7', '#faa8a8', '#f09494', '#f08080'],
+                navigation: true,
+                navigationPosition: 'right',
+                navigationTooltips: ['Intro', 'Web', 'GolfPass', 'GolfBusiness'],
+
+
+                onLeave: function(index, nextIndex, direction) {
+                    if (index <= 3 && direction == 'down') {
+                        $('.section').eq(index - 1).removeClass('moveDown').addClass('moveUp');
+                    } else if (index <= 3 && direction == 'up') {
+                        $('.section').eq(index - 1).removeClass('moveUp').addClass('moveDown');
+                    }
+                }
+            });
+        });
+
+    </script>
+</head>
+
+<body>
+    <div id="header">
+        <header class="home-header">
+            <div class="bc-container">
+                <h1 class="home-logo">logo</h1>
+                <ul class="home-nav__list1 ">
+                    <li>
+                        <a href="#">웹 제작</a>
+                    </li>
+                    <li>
+                        <a href="index_marketing.html">홍보마케팅</a>
+                    </li>
+                    <li>
+                        <a href="index_golfpass.html">골프패스</a>
+                    </li>
+                    <li>
+                        <a href="#">골프비지니스</a>
+                    </li>
+                </ul>
+                <ul class="home-nav__list2">
+                    <li>
+                        <a class="home-nav_btn" href="#">contanct us</a>
+                    </li>
+                </ul>
+            </div>
+        </header>
+    </div>
+    <div id="fullpage">
+        <div class="section moveDown" id="section0">
+            <div class="footer">
+                <div class="footer_content">
+                    <a href="https://www.naver.com/" target="_blank"><img src="imgs/main-footer.png"></a>
+                </div>
+            </div>
+            <div class="slide" id="slide1">
+                <div class="intro_container">
+                    <div class="intro">
+                        <div class="intro-title">
+                            <img src="imgs/main-section-0_txt.png">
+                        </div>
+                        <div class="intro-btn">
+                            <a href="https://www.naver.com/" target="_blank">
+                                <div class="intro-btn_portfolio">
+                                </div>
+                            </a>
+                            <a href="#">
+                                <div class="intro-btn_movie">
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="slide" id="slide2">
+                <div class="intro_video">
+                    <video autoplay controls id="myvideo">
+                        <source  src="video/golfpass.mp4" type="video/mp4">
+                         video 요소를 지원하지 않는 브라우저입니다. 동영상은 다운로드 후 볼 수 있습니다.
+                    </video>
+                </div>
+            </div>
+        </div>
+        <div class="section moveDown" id="section1">
+            <div class="footer">
+                <div class="footer_content">
+                    <a href="https://www.naver.com/" target="_blank"><img src="imgs/main-footer.png"></a>
+                </div>
+            </div>
+            <div class="slide" id="slide1">
+                <div class="about_container">
+                    <div class="about">
+                        <div class="about-title">
+                            <img src="imgs/main-section-1_txt.png">
+                        </div>
+                        <div class="about-content">
+                            <div style="background-image: url(imgs/Monitor.png); background-repeat: no-repeat; background-position: center; height: 410px; margin: 0 auto;">
+                                <div id="sliderFrame">
+                                    <div id="slider">
+                                        <div>
+                                            <img src="imgs/test1.png" />
+                                        </div>
+                                        <div>
+                                            <img src="imgs/test2.png" />
+                                        </div>
+                                        <div>
+                                            <img src="imgs/test3.png" />
+                                        </div>
+                                        <div>
+                                            <img src="imgs/test4.png" />
+                                        </div>
+                                        <div>
+                                            <img src="imgs/test5.png" />
+                                        </div>
+                                        <div>
+                                            <img src="imgs/test6.png" />
+                                        </div>
+                                    </div>
+                                    <!--Custom navigation buttons on both sides-->
+                                    <div id="thumbs">
+                                        <div class="thumb"><img src="imgs/navi1.png" /></div>
+                                        <div class="thumb"><img src="imgs/navi2.png" /></div>
+                                        <div class="thumb"><img src="imgs/navi3.png" /></div>
+                                        <div class="thumb"><img src="imgs/navi4.png" /></div>
+                                        <div class="thumb"><img src="imgs/navi5.png" /></div>
+                                        <div class="thumb"><img src="imgs/navi6.png" /></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section moveDown" id="section2">
+            <div class="footer">
+                <div class="footer_content">
+                    <a href="https://www.naver.com/" target="_blank"><img src="imgs/main-footer.png"></a>
+                </div>
+            </div>
+            <div class="slide" id="slide1">
+                <div class="features_container" id="golfpass1">
+                    <div class="features">
+                        <div class="features-title">
+                            <img src="imgs/main-section-2_txt.png">
+                        </div>
+                        <div style="background-image: url(imgs/searchbox.png); background-repeat: no-repeat; margin-top: 30px;">
+                            <div class="features-content" onclick="window.open('about:blank').location.href='http://golfpass.net'" style="cursor: pointer; width: 356px; height: 50px;">
+                                골프패스
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="slide" id="slide2">
+                <div class="features_container">
+                    <div class="features">
+                        <div class="features-title">
+                            GolfPass<br>골프패스 <br>
+                        </div>
+                        <div class="features-content">
+                            인포그ㅡ래픽 영상 삽입 자막 일본어 필요
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="section moveDown" id="section3">
+            <div class="footer">
+                <div class="footer_content">
+                    <a href="https://www.naver.com/" target="_blank"><img src="imgs/main-footer.png"></a>
+                </div>
+            </div>
+            <div class="slide" id="slide1">
+                <div class="portfolio_container">
+                    <div class="portfolio">
+                        <div class="portfolio-title">
+                            GolfBusiness<br> 골프비즈니스
+                            <br>
+                        </div>
+                        <div class="portfolio-content">
+                            해외 골프장 업계 현황 데이터 및 M&A물건 정보 및 컨섩팅
+                        </div>
+                        <div style="background-image: url(imgs/submit.png); background-repeat: no-repeat; width: 437px; height: 100px; margin-top: 70px;">
+                            <input class="telinput" type="text" placeholder="전화번호입력">
+                            <input class="telsubmit" type="button">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="js/slider.js"></script>
+    <script type="text/javascript">
+        //The following script is for the group 2 navigation buttons.
+        function switchAutoAdvance() {
+            imageSlider.switchAuto();
+            switchPlayPauseClass();
+        }
+
+        function switchPlayPauseClass() {
+            var auto = document.getElementById('auto');
+            var isAutoPlay = imageSlider.getAuto();
+            auto.className = isAutoPlay ? "group2-Pause" : "group2-Play";
+            auto.title = isAutoPlay ? "Pause" : "Play";
+        }
+        switchPlayPauseClass();
+
+    </script>
+</body>
+
+</html>
