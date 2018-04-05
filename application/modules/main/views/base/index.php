@@ -26,7 +26,9 @@
     <div class="section moveDown" id="section0">
         <div class="footer">
             <div class="footer_content">
-                <a href="https://www.naver.com/" target="_blank"><img src="/public/images/main-footer.png"></a>
+                <div style="height:65px;">
+                    <a href="https://www.naver.com/" target="_blank"><img src="/public/images/main-footer.png"></a>
+                </div>
             </div>
         </div>
         <div class="slide" id="slide1">

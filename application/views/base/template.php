@@ -41,7 +41,7 @@
                 <h1 class="home-logo"><a href="/main/index">logo</a></h1>
                 <ul class="home-nav__list1 ">
                     <li>
-                        <a href="#">웹 제작</a>
+                        <a href="/playseven_web/index_web">웹 제작</a>
                     </li>
                     <li>
                         <a href="/playseven_marketing/index_marketing">홍보마케팅</a>
@@ -64,26 +64,7 @@
         
         <?=$this->load->views($content_view)?>
         
-        
-        <div class="footer0">
-        <ul class="foot-menu">
-            <li><a href="#">회사 소개</a></li>
-            <li><a href="#">이용 약관</a></li>
-            <li><a href="#">개인 보호 정책</a></li>
-            <li><a href="#">이메일 주소 무단 수집 거부</a></li>
-        </ul>
 
-        <ul class="social">
-            <li><a href="#"><img src="/public/images/google.png" alt="구글"></a></li>
-            <li><a href="#"><img src="/public/images/naver.png" alt="네이버"></a></li>
-            <li><a href="#"><img src="/public/images/facebook.png" alt="페이스북"></a></li>
-            <li><a href="#"><img src="/public/images/insta.png" alt="인스타그램"></a></li>
-        </ul>
-
-        <div class="copy">
-            <p>여긴 어디 나는누구?</p>
-        </div>
-    </div>
         <script>
     var Portfolio = new Jy.KTC.Portfolio();
 </script>
