@@ -33,12 +33,15 @@
     <script type="text/javascript" src="/public/js/jquery.fullPage.js"></script>
     <script type="text/javascript" src="/public/js/footer-animation.js"></script>
     <script src="/public/js/scrollreveal.js"></script>
-    </head>
-    <body>
+</head>
+
+<body>
     <div id="header">
         <header class="home-header">
             <div class="bc-container">
-                <h1 class="home-logo"><a href="/main/index">logo</a></h1>
+                <h1 class="home-logo">
+                    <div style="margin-top:-4px;"><a href="/main/index"><img src="/public/images/logo.png"/></a></div>
+                </h1>
                 <ul class="home-nav__list1 ">
                     <li>
                         <a href="/playseven_web/index_web">웹 제작</a>
@@ -61,13 +64,15 @@
             </div>
         </header>
     </div>
-        
-        <?=$this->load->views($content_view)?>
-        
+
+    <?=$this->load->views($content_view)?>
+
 
         <script>
-    var Portfolio = new Jy.KTC.Portfolio();
-</script>
+            var Portfolio = new Jy.KTC.Portfolio();
 
-    </body>
+        </script>
+
+</body>
+
 </html>

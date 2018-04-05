@@ -66,7 +66,14 @@
                 <div class="about">
                     <div class="about-title">
                         <img src="/public/images/main-section-2_txt.png">
+                        <div class="about-btn">
+                            <a href="https://www.naver.com/" target="_blank">
+                                <div class="about-btn_portfolio">
+                                </div>
+                            </a>
+                        </div>
                     </div>
+
                     <div class="about-content">
                         <div style="background-image: url(/public/images/Monitor.png); background-repeat: no-repeat; height: 410px; margin-left:60%; width:617px;">
                             <div id="sliderFrame">
