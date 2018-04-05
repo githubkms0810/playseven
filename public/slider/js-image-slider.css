@@ -89,10 +89,10 @@
 #thumbs {
     position: absolute;
     top: 0;
-    margin-left: 70%;
+    margin-left: -90%;
     /* position it in the middle of #sliderFrame */
-    width: 330px;
-    margin-top: 30px;
+    width: 470px;
+    margin-top: 230px;
 
 }
 

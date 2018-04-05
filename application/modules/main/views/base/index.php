@@ -68,7 +68,7 @@
                         <img src="/public/images/main-section-2_txt.png">
                     </div>
                     <div class="about-content">
-                        <div style="background-image: url(/public/images/Monitor.png); background-repeat: no-repeat; background-position: center; height: 410px; margin: 0 auto;">
+                        <div style="background-image: url(/public/images/Monitor.png); background-repeat: no-repeat; height: 410px; margin-left:60%; width:617px;">
                             <div id="sliderFrame">
                                 <div id="slider">
                                     <div>
@@ -83,12 +83,6 @@
                                     <div>
                                         <img src="/public/images/test4.png" />
                                     </div>
-                                    <div>
-                                        <img src="/public/images/test5.png" />
-                                    </div>
-                                    <div>
-                                        <img src="/public/images/test6.png" />
-                                    </div>
                                 </div>
                                 <!--Custom navigation buttons on both sides-->
                                 <div id="thumbs">
@@ -96,8 +90,6 @@
                                     <div class="thumb"><img src="/public/images/navi2.png" /></div>
                                     <div class="thumb"><img src="/public/images/navi3.png" /></div>
                                     <div class="thumb"><img src="/public/images/navi4.png" /></div>
-                                    <div class="thumb"><img src="/public/images/navi5.png" /></div>
-                                    <div class="thumb"><img src="/public/images/navi6.png" /></div>
                                 </div>
                             </div>
                         </div>
