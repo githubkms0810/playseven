@@ -40,25 +40,25 @@
         <header class="home-header">
             <div class="bc-container">
                 <h1 class="home-logo">
-                    <div style="margin-top:-4px;"><a href="/main/index"><img src="/public/images/logo.png"/></a></div>
+                    <div style="margin-top:-4px;"><a href="/"><img src="/public/images/logo.png"/></a></div>
                 </h1>
                 <ul class="home-nav__list1 ">
                     <li>
-                        <a href="/playseven_web/index_web">웹 제작</a>
+                        <a href="/playseven_web/index_web">웹 에이전시</a>
                     </li>
                     <li>
-                        <a href="/playseven_marketing/index_marketing">홍보마케팅</a>
+                        <a href="/playseven_marketing/index_marketing">홍보 마케팅</a>
                     </li>
                     <li>
                         <a href="/playseven_golfpass/index_golfpass">골프패스</a>
                     </li>
                     <li>
-                        <a href="#">골프비지니스</a>
+                        <a href="#">골프 비지니스</a>
                     </li>
                 </ul>
                 <ul class="home-nav__list2">
                     <li>
-                        <a class="home-nav_btn" href="#">contanct us</a>
+                        <a class="home-nav_btn" href="#">문의하기</a>
                     </li>
                 </ul>
             </div>
