@@ -49,7 +49,7 @@
         <div class="slide" id="slide2">
             <div class="intro_video">
                 <video autoplay controls id="myvideo">
-                        <source  src="//public/video/golfpass.mp4" type="video/mp4">
+                        <source  src="/public/video/golfpass.mp4" type="video/mp4">
                          video 요소를 지원하지 않는 브라우저입니다. 동영상은 다운로드 후 볼 수 있습니다.
                     </video>
             </div>
@@ -126,15 +126,11 @@
             </div>
         </div>
         <div class="slide" id="slide2">
-            <div class="features_container">
-                <div class="features">
-                    <div class="features-title">
-                        GolfPass<br>골프패스 <br>
-                    </div>
-                    <div class="features-content">
-                        인포그ㅡ래픽 영상 삽입 자막 일본어 필요
-                    </div>
-                </div>
+            <div class="feature_video">
+                <video autoplay controls id="myvideo">
+                        <source  src="/public/video/golfpass.mp4" type="video/mp4">
+                         video 요소를 지원하지 않는 브라우저입니다. 동영상은 다운로드 후 볼 수 있습니다.
+                    </video>
             </div>
         </div>
     </div>

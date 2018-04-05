@@ -778,6 +778,15 @@ video {
 
 /*위치하게될 부분*/
 
+
+.feature_video {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 99999;
+}
+
 /*--content--portfolio----------------------------------------------*/
 
 .portfolio p {
