@@ -10,7 +10,7 @@
         autoPlay: "on",
         showArrows: "off", 
         hideDots: "off", 
-        hoverZoom: "on",
+        hoverZoom: "off",
         titleBarTop: "off"
       },
       settings
