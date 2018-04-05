@@ -5,10 +5,10 @@
     <title>PLAYSEVEN | 꽃 우는 붙잡아</title>
     <meta name="description" content="옷을 풍부하게 현저하게 심장의 크고 이것이다">
     <link rel="canonical" href="http://www.playseven.co.kr">
-    <link rel="shortcut icon" href="imgs/favicon.ico">
+    <link rel="shortcut icon" href="/public/images/favicon.ico">
     <meta property="og:type" content="website">
     <meta property="og:url" content="http://www.playseven.co.kr">
-    <meta property="og:image" content="imgs/thum.jpg">
+    <meta property="og:image" content="/public/images/thum.jpg">
     <meta property="og:title" content="PLAYSEVEN | 꽃 우는 붙잡아">
     <meta property="og:description" content="옷을 풍부하게 현저하게 심장의 크고 이것이다">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
