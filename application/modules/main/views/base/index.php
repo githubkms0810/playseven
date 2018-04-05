@@ -33,15 +33,11 @@
             <div class="intro_container">
                 <div class="intro">
                     <div class="intro-title">
-                        <img src="/public/images/main-section-0_txt.png">
+                        <img src="/public/images/main-section-1_txt.png">
                     </div>
                     <div class="intro-btn">
                         <a href="https://www.naver.com/" target="_blank">
                             <div class="intro-btn_portfolio">
-                            </div>
-                        </a>
-                        <a href="#">
-                            <div class="intro-btn_movie">
                             </div>
                         </a>
                     </div>
@@ -67,7 +63,7 @@
             <div class="about_container">
                 <div class="about">
                     <div class="about-title">
-                        <img src="/public/images/main-section-1_txt.png">
+                        <img src="/public/images/main-section-2_txt.png">
                     </div>
                     <div class="about-content">
                         <div style="background-image: url(/public/images/Monitor.png); background-repeat: no-repeat; background-position: center; height: 410px; margin: 0 auto;">
@@ -118,7 +114,7 @@
             <div class="features_container" id="golfpass1">
                 <div class="features">
                     <div class="features-title">
-                        <img src="/public/images/main-section-2_txt.png">
+                        <img src="/public/images/main-section-3_txt.png">
                     </div>
                     <div style="background-image: url(/public/images/searchbox.png); background-repeat: no-repeat; margin-top: 30px;">
                         <div class="features-content" onclick="window.open('about:blank').location.href='http://golfpass.net'" style="cursor: pointer; width: 356px; height: 50px;">
@@ -151,7 +147,7 @@
             <div class="portfolio_container">
                 <div class="portfolio">
                     <div class="portfolio-title">
-                        <img src="/public/images/main-section-3_txt.png">
+                        <img src="/public/images/main-section-4_txt.png">
                     </div>
 
                     <div style="background-image: url(/public/images/submit.png); background-repeat: no-repeat; width: 437px; height: 100px; margin-top: 30px;">
