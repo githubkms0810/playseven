@@ -40,7 +40,7 @@
         <header class="home-header">
             <div class="bc-container">
                 <h1 class="home-logo">
-                    <div style="margin-top:-4px;"><a href="/"><img src="/public/images/logo.png"/></a></div>
+                    <div style="margin-top:-40px;"><a href="/"><img src="/public/images/logo.png"/></a></div>
                 </h1>
                 <ul class="home-nav__list1 ">
                     <li>
