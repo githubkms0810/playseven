@@ -1,3 +1,45 @@
+.company-about-wrap {
+     display: block;
+    text-align: center;
+ }
+
+ .company-about-wrap h3 {
+     font-size: 47px;
+     color: #5b5b5b;
+     letter-spacing: -4px
+ }
+
+ .company-about-tit {
+     font-size: 25px;
+     color: #5b5b5b
+ }
+
+ .company-about-txt {
+     font-size: 21px;
+     color: #5b5b5b
+ }
+
+ .company-about-txt p {
+     font-size: 38px;
+     color: #35bcd5;
+     padding-top: 100px
+ }
+
+
+ .pt-50 {
+     padding-top: 50px;
+ }
+
+ .hr_line5 {
+     width: 50px;
+     border-bottom: 2px solid #35bcd5;
+     margin: auto
+ }
+
+ .pt-60 {
+     padding-top: 60px;
+ }
+
 /*content-marketing------------------------------------*/
 .marketing_content{
     padding-top: 50px;
