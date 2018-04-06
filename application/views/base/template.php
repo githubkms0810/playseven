@@ -45,6 +45,9 @@
                 <nav>
                     <ul class="home-nav__list1 ">
                         <li>
+                            <a href="/playseven_web/about_us">회사 소개</a>
+                        </li>
+                        <li>
                             <a href="/playseven_web/index_web">웹 에이전시</a>
                         </li>
                         <li>
