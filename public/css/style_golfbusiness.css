@@ -276,13 +276,7 @@ Projects
   -o-transform: translateY(-50%);
   transform: translateY(-50%);
 }
-.cd-projects-previews li:nth-of-type(4) a {
-  -webkit-transform: translateY(-75%);
-  -moz-transform: translateY(-75%);
-  -ms-transform: translateY(-75%);
-  -o-transform: translateY(-75%);
-  transform: translateY(-75%);
-}
+
 .cd-projects-previews .bg-loaded a {
   opacity: 1;
 }
@@ -290,7 +284,7 @@ Projects
   .cd-projects-previews li {
     display: inline-block;
     height: 100%;
-    width: 25%;
+    width: 33.3%;
     float: left;
   }
   .cd-projects-previews li.selected {
@@ -325,13 +319,7 @@ Projects
     -o-transform: translateX(-50%);
     transform: translateX(-50%);
   }
-  .cd-projects-previews li:nth-of-type(4) a {
-    -webkit-transform: translateX(-75%);
-    -moz-transform: translateX(-75%);
-    -ms-transform: translateX(-75%);
-    -o-transform: translateX(-75%);
-    transform: translateX(-75%);
-  }
+  
 }
 
 .cd-projects {
@@ -385,11 +373,7 @@ Projects
   background-size: cover;
 }
 
-.cd-projects-previews li:nth-of-type(4) a,
-.cd-projects > li:nth-of-type(4) .preview-image {
-  background: #835531 url(/public/images/img-4.jpg) no-repeat center center;
-  background-size: cover;
-}
+
 
 .cd-project-title {
   position: absolute;
@@ -507,29 +491,10 @@ Projects
   }
 }
 
-.cd-projects-previews li:nth-of-type(4) a .cd-project-title,
-.cd-projects > li:nth-of-type(4) .cd-project-title {
-  -webkit-transform: translateY(37.5vh);
-  -moz-transform: translateY(37.5vh);
-  -ms-transform: translateY(37.5vh);
-  -o-transform: translateY(37.5vh);
-  transform: translateY(37.5vh);
-}
-@media only screen and (min-width: 1024px) {
-  .cd-projects-previews li:nth-of-type(4) a .cd-project-title,
-  .cd-projects > li:nth-of-type(4) .cd-project-title {
-    -webkit-transform: translateX(300%);
-    -moz-transform: translateX(300%);
-    -ms-transform: translateX(300%);
-    -o-transform: translateX(300%);
-    transform: translateX(300%);
-  }
-}
 
 li.selected .cd-project-title,
 .cd-projects > li:nth-of-type(2).selected .cd-project-title,
-.cd-projects > li:nth-of-type(3).selected .cd-project-title,
-.cd-projects > li:nth-of-type(4).selected .cd-project-title {
+.cd-projects > li:nth-of-type(3).selected .cd-project-title {
   -webkit-transform: translateY(0);
   -moz-transform: translateY(0);
   -ms-transform: translateY(0);
@@ -539,8 +504,7 @@ li.selected .cd-project-title,
 @media only screen and (min-width: 1024px) {
   li.selected .cd-project-title,
   .cd-projects > li:nth-of-type(2).selected .cd-project-title,
-  .cd-projects > li:nth-of-type(3).selected .cd-project-title,
-  .cd-projects > li:nth-of-type(4).selected .cd-project-title {
+  .cd-projects > li:nth-of-type(3).selected .cd-project-title {
     -webkit-transform: translateX(150%);
     -moz-transform: translateX(150%);
     -ms-transform: translateX(150%);
