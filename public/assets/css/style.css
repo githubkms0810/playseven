@@ -36,7 +36,9 @@ a:focus {
     outline: none;
 }
 
-
+img {
+    border: 0px;
+}
 
 h1,
 h2,
@@ -57,9 +59,14 @@ p {
     background: #7DCB3D;
 }
 
+body {
+    font-family: Quicksand;
+}
+
 #banner {
     font-family: Comfortaa;
     color: #000;
+    padding: 250px 0;
     background-image: url("../images/web_bg.png");
     background-attachment: fixed;
     background-position: center;
