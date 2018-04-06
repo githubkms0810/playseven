@@ -119,7 +119,7 @@
                     </div>
                     <div style="background-image: url(/public/images/searchbox.png); background-repeat: no-repeat; margin-top: 30px;">
                         <div class="features-content" onclick="window.open('about:blank').location.href='http://golfpass.net'" style="cursor: pointer; width: 356px; height: 50px;">
-                            골프패스
+                            GOLFPASS
                         </div>
                     </div>
                 </div>
