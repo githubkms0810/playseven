@@ -266,7 +266,11 @@
     margin-bottom: 100px;
 }
 
-
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
 
 
 body {

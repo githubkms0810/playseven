@@ -431,6 +431,7 @@ p {
     text-align: center;
     padding: 8px;
     color: #bababa !important;
+    box-sizing: border-box;
 }
 
 
