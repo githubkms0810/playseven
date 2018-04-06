@@ -31,27 +31,3 @@
         </div>
     </div>
 </div>
-<div class="section fp-auto-height" id="section4">
-    <div class="marketing" id="marketing_no4">
-        <img class="imgs" src="/public/images/4.jpg" />
-        <div class="marketing_no4">
-            <img class="info_4" src="/public/images/txt_info_4.png">
-        </div>
-    </div>
-</div>
-<div class="section fp-auto-height" id="section5">
-    <div class="marketing" id="marketing_no5">
-        <img class="imgs" src="/public/images/5.jpg" />
-        <div class="marketing_no5">
-            <img class="info_5" src="/public/images/txt_info_3.png">
-        </div>
-    </div>
-</div>
-<div class="section fp-auto-height" id="section6">
-    <div class="marketing" id="marketing_no6">
-        <img class="imgs" src="/public/images/6.jpg" />
-        <div class="marketing_no6">
-            <img class="info_6" src="/public/images/txt_info_4.png">
-        </div>
-    </div>
-</div>
