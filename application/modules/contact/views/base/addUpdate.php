@@ -88,7 +88,7 @@ scrollTop: $('.container-contact100').offset().top
 			</form>
 
 			<span class="contact100-more">
-				빠른 답변을 원하시면 전화로 문의해주세요! <span class="contact100-more-highlight">02-6738-8220</span>
+				빠른 답변을 원하시면 전화로 문의해주세요! <span class="contact100-more-highlight">02-6959-5454</span>
 			</span>
 		</div>
 	</div>

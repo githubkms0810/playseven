@@ -22,7 +22,7 @@
 <section id="banner" class="text-center">
     <div class="container">
         <h1 style="font-size:36px; color:#292929; line-height:51px;">We develops creative and innovative websites through industry analysis and customer analysis.</h1>
-        <a href="#" style="background-color:#193ff0; border-radius: 5px; border:0;">contact us</a>
+        <a href="/contact/add" style="background-color:#193ff0; border-radius: 5px; border:0;">contact us</a>
     </div>
 </section>
 <section class="demos">
