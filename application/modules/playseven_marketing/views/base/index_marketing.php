@@ -54,25 +54,4 @@
             <img class="info_6" src="/public/images/txt_info_4.png">
         </div>
     </div>
-
-</div>
-
-<div class="footer0">
-    <ul class="foot-menu">
-        <li><a href="#">회사 소개</a></li>
-        <li><a href="#">이용 약관</a></li>
-        <li><a href="#">개인 보호 정책</a></li>
-        <li><a href="#">이메일 주소 무단 수집 거부</a></li>
-    </ul>
-
-    <ul class="social">
-        <li><a href="#"><img src="/public/images/google.png" alt="구글"></a></li>
-        <li><a href="#"><img src="/public/images/naver.png" alt="네이버"></a></li>
-        <li><a href="#"><img src="/public/images/facebook.png" alt="페이스북"></a></li>
-        <li><a href="#"><img src="/public/images/insta.png" alt="인스타그램"></a></li>
-    </ul>
-
-    <div class="copy">
-        <p>여긴 어디 나는누구?</p>
-    </div>
 </div>
