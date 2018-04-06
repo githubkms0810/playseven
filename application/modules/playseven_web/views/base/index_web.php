@@ -20,7 +20,7 @@
 
 
 <section id="banner" class="text-center">
-    <div class="container">
+    <div class="container" style="padding: 250px 0;">
         <h1>플레이세븐은 사용자 관찰을 통해 창조적이고 혁신적인 홈페이지를 컨설팅해 드리는 전문가 그룹입니다.</h1>
         <a href="#">문의하기</a>
     </div>
