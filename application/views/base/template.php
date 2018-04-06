@@ -45,24 +45,24 @@
                 <nav>
                     <ul class="home-nav__list1 ">
                         <li>
-                            <a href="/playseven_web/about_us">회사 소개</a>
+                            <a href="/playseven_web/about_us">about us</a>
                         </li>
                         <li>
-                            <a href="/playseven_golfpass/index_golfpass">골프패스</a>
+                            <a href="/playseven_golfpass/index_golfpass">golfpass</a>
                         </li>
                         <li>
-                            <a href="/playseven_golfbusiness/index_golfbusiness">홍보 마케팅</a>
+                            <a href="/playseven_golfbusiness/index_golfbusiness">marketing</a>
                         </li>
                         <li>
-                            <a href="/playseven_web/index_web">웹 에이전시</a>
+                            <a href="/playseven_web/index_web">web agency</a>
                         </li>
                         <li>
-                            <a href="/playseven_marketing/index_marketing">골프 비지니스</a>
+                            <a href="/playseven_marketing/index_marketing">golf business</a>
                         </li>
                     </ul>
                     <ul class="home-nav__list2">
                         <li>
-                            <a class="home-nav_btn" href="/contact/add">문의하기</a>
+                            <a class="home-nav_btn" href="/contact/add">contact us</a>
                         </li>
                     </ul>
                 </nav>
