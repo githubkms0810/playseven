@@ -3,7 +3,7 @@
         $('#fullpage').fullpage({
             css3: true,
             anchors: ['firstPage', 'secondPage', '3rdPage', '4thPage'],
-            sectionsColor: ['#fab7b7', '#faa8a8', '#f09494', '#f08080'],
+            sectionsColor: ['#000', '#000', '#000', '#000'],
             navigation: true,
             navigationPosition: 'right',
             navigationTooltips: ['Intro', 'Web', 'GolfPass', 'GolfBusiness'],
