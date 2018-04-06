@@ -1,3 +1,4 @@
+<!--
 <link rel="stylesheet" type="text/css" href="/public/css/style_golfpass.css" />
 <link rel="stylesheet" type="text/css" href="/public/css/style_golfpass_slider.css" />
 <script src="https://cdnjs.cloudflare.com/ajax/libs/prefixfree/1.0.7/prefixfree.min.js"></script>
@@ -6,22 +7,22 @@
 <div class="section fp-auto-height" id="section0">
 
 
-    <div class="slider" id="slider1" style="margin-top:70px;">
-        <!-- Slides -->
-        <div style="background-image:url(/public/images/6.jpg)"></div>
+    <div class="slider" id="slider1" style="margin-top:70px;">-->
+<!-- Slides -->
+<!--        <div style="background-image:url(/public/images/6.jpg)"></div>
         <div style="background-image:url(/public/images/5.jpg)"></div>
         <div style="background-image:url(/public/images/4.jpg)"></div>
         <div style="background-image:url(/public/images/3.jpg)"></div>
-        <div style="background-image:url(/public/images/2.jpg)"></div>
-        <!-- The Arrows -->
-        <span class="fp-controlArrow fp-prev left arrows"></span>
+        <div style="background-image:url(/public/images/2.jpg)"></div>-->
+<!-- The Arrows -->
+<!--<span class="fp-controlArrow fp-prev left arrows"></span>
         <span class="fp-controlArrow fp-next right arrows"></span>
 
         <!-- Title Bar -->
-    </div>
+<!--    </div>-->
 
 
-    <!--
+<!--
     
     <div class="slide" id="slide1">
         <div class="myContent" id="golfpass2">
@@ -56,6 +57,7 @@
             </div>
         </div>
     </div>-->
+<!--
 </div>
 <div class="section fp-auto-height" id="section1">
     <div class="golfpass">
@@ -99,3 +101,48 @@
 
 
 <script src="/public/js/golfpass_slider.js"></script>
+===============================================================================================-->
+
+
+<link rel="stylesheet" href="/public/css/style_golfpass_movie.css">
+<!-- Resource style -->
+
+
+
+<div class="cd-immersive-video">
+    <div class="intro-wrapper">
+        <div class="product-intro">
+            <div>
+                <h1 class="item item-1">Immersive Video Template</h1>
+
+                <p class="item item-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam aspernatur quod libero doloribus provident! Laborum vero sint reprehenderit ratione quos.</p>
+
+                <a href="#0" class="cd-btn item item-3">Download &amp; Article</a>
+            </div>
+        </div>
+        <!-- .product-intro -->
+
+        <div class="product-preview no-transition">
+            <div class="device-frame"><img src="/public/images/mobile-frame.svg" alt="Device Frame"></div>
+
+            <div class="product-image">
+                <img src="/public/images/video-fallback.jpg" alt="Product Preview">
+            </div>
+
+            <div class="product-video" data-video="/public/video/video.mp4">
+                <div class="video-wrapper"></div>
+            </div>
+        </div>
+        <!-- .product-preview -->
+    </div>
+    <div class="cd-loader"></div>
+</div>
+<!-- .cd-immersive-video -->
+<script src="/public/js/modernizr.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+<script>
+    if (!window.jQuery) document.write('<script src="/public/js/jquery-3.0.0.min.js"><\/script>');
+
+</script>
+<script src="/public/js/golfpass_main_movie.js"></script>
+<!-- Resource jQuery -->
