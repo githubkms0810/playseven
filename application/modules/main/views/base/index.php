@@ -75,7 +75,7 @@
                     </div>
 
                     <div class="about-content">
-                        <div style="background-image: url(/public/images/Monitor.png); background-repeat: no-repeat; height: 410px; margin-left:60%; width:617px;">
+                        <div style="background-image: url(/public/images/Monitor.png); background-repeat: no-repeat; height: 410px; margin-left:52%; width:617px;">
                             <div id="sliderFrame">
                                 <div id="slider">
                                     <div>
