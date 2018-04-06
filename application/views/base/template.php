@@ -48,13 +48,13 @@
                             <a href="/playseven_web/about_us">회사 소개</a>
                         </li>
                         <li>
-                            <a href="/playseven_web/index_web">웹 에이전시</a>
+                            <a href="/playseven_golfpass/index_golfpass">골프패스</a>
                         </li>
                         <li>
                             <a href="/playseven_marketing/index_marketing">홍보 마케팅</a>
                         </li>
                         <li>
-                            <a href="/playseven_golfpass/index_golfpass">골프패스</a>
+                            <a href="/playseven_web/index_web">웹 에이전시</a>
                         </li>
                         <li>
                             <a href="/playseven_golfbusiness/index_golfbusiness">골프 비지니스</a>

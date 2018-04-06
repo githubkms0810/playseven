@@ -67,7 +67,7 @@
                     <div class="about-title">
                         <img src="/public/images/main-section-2_txt.png">
                         <div class="about-btn">
-                            <a href="https://www.naver.com/" target="_blank">
+                            <a href="/playseven_web/index_web" target="_blank">
                                 <div class="about-btn_portfolio">
                                 </div>
                             </a>
