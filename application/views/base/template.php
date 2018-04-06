@@ -51,13 +51,13 @@
                             <a href="/playseven_golfpass/index_golfpass">골프패스</a>
                         </li>
                         <li>
-                            <a href="/playseven_marketing/index_marketing">홍보 마케팅</a>
+                            <a href="/playseven_golfbusiness/index_golfbusiness">홍보 마케팅</a>
                         </li>
                         <li>
                             <a href="/playseven_web/index_web">웹 에이전시</a>
                         </li>
                         <li>
-                            <a href="/playseven_golfbusiness/index_golfbusiness">골프 비지니스</a>
+                            <a href="/playseven_marketing/index_marketing">골프 비지니스</a>
                         </li>
                     </ul>
                     <ul class="home-nav__list2">

@@ -147,10 +147,12 @@
                         <img src="/public/images/main-section-4_txt.png">
                     </div>
 
-                    <div style="background-image: url(/public/images/submit.png); background-repeat: no-repeat; width: 437px; height: 100px; margin-top: 30px;">
-                        <input class="telinput" type="text" placeholder="전화번호입력">
-                        <input class="telsubmit" type="button">
-                    </div>
+                        <div class="golf_intro-btn">
+                            <a href="/contact/add" target="_blank">
+                                <div class="about-btn_portfolio">
+                                </div>
+                            </a>
+                        </div>
                 </div>
             </div>
         </div>

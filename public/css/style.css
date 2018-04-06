@@ -551,6 +551,12 @@ p {
     background-repeat: no-repeat;
 }
 
+.golf_intro-btn {
+    margin-top: 70px;
+    background-image: url(/public/images/main-section-2_btn.png);
+    background-repeat: no-repeat;
+}
+
 .intro_video {
     margin: 0;
     padding: 0;
