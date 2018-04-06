@@ -57,7 +57,7 @@
                             <a href="/playseven_golfpass/index_golfpass">골프패스</a>
                         </li>
                         <li>
-                            <a href="#">골프 비지니스</a>
+                            <a href="/playseven_golfbusiness">골프 비지니스</a>
                         </li>
                     </ul>
                     <ul class="home-nav__list2">
