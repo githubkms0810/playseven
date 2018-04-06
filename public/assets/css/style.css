@@ -1,0 +1,206 @@
+/*============================================================
+	Theme Name: nanme
+	Theme URI: http://codecorns.com/
+	Author: CodeCorns team
+	Author URI: http://codecorns.com/
+	Description: company name HTML5 Business Template by CodeCorns taem
+	Version: 1.0
+    Tags: responsive, onepage themplate, business, corporate
+==============================================================*/
+
+
+/*----------------------------------------
+            GOOGLE FONTS
+------------------------------------------*/
+
+@import url('https://fonts.googleapis.com/css?family=Comfortaa:300,400,700|Quicksand:300,400,500,700');
+
+/*----------------------------------------
+            1. THEME GENEREL CSS
+------------------------------------------*/
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+a,
+a:hover,
+a:focus {
+    text-decoration: none !important;
+    outline: none;
+}
+
+img {
+    border: 0px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    padding: 0px;
+    margin: 0px;
+}
+
+.border_btm {
+    margin: 0 auto;
+    width: 200px;
+    height: 5px;
+    border-radius: 10px;
+    background: #7DCB3D;
+}
+
+body {
+    font-family: Quicksand;
+}
+
+#banner {
+    font-family: Comfortaa;
+    color: #000;
+    padding: 250px 0;
+    background-image: url("../images/web_bg.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+#banner .logo {
+    margin: 0 auto;
+    padding-bottom: 50px;
+    width: 250px;
+}
+
+#banner h1 {
+    font-weight: bolder;
+    padding-bottom: 10px;
+    font-size: 44px;
+    margin-bottom: 50px;
+}
+
+#banner a{
+    padding: 15px 25px;
+    font-size: 20px;
+    background: #F34F4E;
+    color: #fff;
+    border: 3px solid #fff;
+}
+.demos {
+    padding-bottom: 100px;
+}
+.demos .demo_box1 {
+    height: 600px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.demos .demo_box2 {
+    height: 600px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.demos h3 {
+    text-transform: uppercase;
+    font-size: 16px;
+    padding: 17px;
+    border: 1px solid #bcbcbc;
+    margin-top: 100px;
+    font-weight: 600;
+}
+
+.demos img {
+    transform: translateY(0);
+    transition: 3s;
+}
+
+.demos .demo_box1:hover img {
+    transform: translateY(-1570px);
+}
+
+.demos .demo_box2:hover img {
+    transform: translateY(-1570px);
+}
+
+.demos h6 {
+    margin-top: 50px;
+}
+
+.demos h6 a {
+    font-size: 15px;
+    padding: 15px 50px;
+    color: #fff;
+    background: #F34F4E;
+    text-transform: uppercase;
+    border: 2px solid;
+    font-weight: 600;
+    transition: 1s;
+    display: inline-block;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.demos h6 a:hover {
+    color: #F34F4E;
+    background: #fff;
+}
+
+.features {
+    padding: 85px 0;
+    background: #dbdbdb;
+}
+
+.features h2 {
+    font-weight: bold;
+    padding: 10px 0 85px;
+    font-size: 42px;
+}
+
+.ft-item {
+    box-shadow: 0 0 10px 3px #bcbcbc;
+    height: 180px;
+    margin: 15px 0;
+    padding: 15px 0;
+    overflow: hidden;
+    font-size: 16px;
+    background: #fff;
+    border-radius: 6px;
+}
+
+@media screen and (max-width: 414px) {
+    .ft-item img{
+        margin: 0 auto;
+        width: 80px;
+    }
+    .ft-item {
+        text-align: center;
+        min-height: 180px;
+    }
+}
+
+.ft-item p {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+footer {
+    background: #000;
+    padding: 50px 0;
+    color: #fff;
+}
+
+footer a {
+    color: #F34F4E;
+}
+
+footer a:hover {
+    color: #fff
+}
