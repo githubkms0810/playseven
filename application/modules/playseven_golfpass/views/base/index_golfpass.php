@@ -113,11 +113,12 @@
     <div class="intro-wrapper">
         <div class="product-intro">
             <div>
-                <h1 class="item item-1">Immersive Video Template</h1>
+                <h1 class="item item-1">Information retrieval and evaluation sites of all golf courses in the world</h1>
 
-                <p class="item item-2">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam aspernatur quod libero doloribus provident! Laborum vero sint reprehenderit ratione quos.</p>
+                <p class="item item-2">You can see various information of 35,000 golf courses at a glance. Provide information through user's direct golf evaluation and reviews. Before selecting a golf course, search for golf course information on the Golfpass.net</p>
 
-                <a href="#0" class="cd-btn item item-3">Download &amp; Article</a>
+                <a href="http://golfpass.net/" target="_blank" class="cd-btn item item-3">GO</a>
+                <a href="https://youtu.be/XwtX5ABOOww" target="_blank" class="cd-btn item item-3" style="background-color:#393939;">watch video</a>
             </div>
         </div>
         <!-- .product-intro -->

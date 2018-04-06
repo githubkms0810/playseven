@@ -21,20 +21,20 @@
 
 <section id="banner" class="text-center">
     <div class="container">
-        <h1>플레이세븐은 사용자 관찰을 통해 창조적이고 혁신적인 홈페이지를 컨설팅해 드리는 전문가 그룹입니다.</h1>
-        <a href="#">문의하기</a>
+        <h1 style="font-size:36px; color:#292929; line-height:51px;">We develops creative and innovative websites through industry analysis and customer analysis.</h1>
+        <a href="#" style="background-color:#193ff0; border-radius: 5px; border:0;">contact us</a>
     </div>
 </section>
 <section class="demos">
         <div class="container">
             <div class="col-sm-6 text-center">
-                <h3>골프패스</h3>
+                <h3 style="border:0">골프패스</h3>
                 <div class="demo_box1">
                     <img class="img-responsive" src="/public/assets/images/1.png" alt="Page">
                 </div>
             </div>
             <div class="col-sm-6 text-center">
-                <h3>코리아 통번역 센터</h3>
+                <h3 style="border:0">코리아 통번역 센터</h3>
                 <div class="demo_box2">
                     <img class="img-responsive" src="/public/assets/images/2.png" alt="Page">
                 </div>
