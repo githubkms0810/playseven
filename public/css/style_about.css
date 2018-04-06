@@ -1,0 +1,179 @@
+ p {
+     font-size: 18px;
+ }
+
+ #wrap {
+     min-width: 1100px;
+ }
+
+ #container_wrap {
+     position: relative;
+     width: 100%;
+     text-align: center;
+ }
+
+ .company-about-wrap {
+     display: block;
+     background: #fafafa
+ }
+
+ .company-about-wrap h3 {
+     font-size: 47px;
+     color: #5b5b5b;
+     letter-spacing: -4px
+ }
+
+ w1100_wrap .pt-120 {
+     padding-top: 120px;
+ }
+
+ .pt-120 {
+     padding-top: 120px
+ }
+
+ .mb-10 {
+     margin-bottom: 10px;
+ }
+
+ .company-about-tit {
+     font-size: 25px;
+     color: #5b5b5b
+ }
+
+ .company-about-txt {
+     font-size: 21px;
+     color: #5b5b5b
+ }
+
+ .company-about-txt p {
+     font-size: 38px;
+     color: #35bcd5;
+     padding-top: 100px
+ }
+
+ .company-about-txt img {
+     padding: 0px 0 50px 0px
+ }
+
+ .pt-50 {
+     padding-top: 50px;
+ }
+
+ .hr_line5 {
+     width: 50px;
+     border-bottom: 2px solid #35bcd5;
+     margin: auto
+ }
+
+ .pt-60 {
+     padding-top: 60px;
+ }
+
+ .pt-10 {
+     padding-top: 10px;
+ }
+
+
+ /**about**/
+
+ .pt-120 {
+     padding-top: 120px
+ }
+
+ .pt-130 {
+     padding-top: 130px
+ }
+
+ .company-about-wrap {
+     display: block;
+     background: #fafafa
+ }
+
+ .company-about-wrap h3 {
+     font-size: 47px;
+     color: #5b5b5b;
+     letter-spacing: -4px
+ }
+
+ .company-about-tit {
+     font-size: 25px;
+     color: #5b5b5b
+ }
+
+ .company-about-txt {
+     font-size: 21px;
+     color: #5b5b5b
+ }
+
+ .company-about-txt p {
+     font-size: 38px;
+     color: #35bcd5;
+     padding-top: 100px
+ }
+
+ .company-about-txt img {
+     padding: 0px 0 50px 0px
+ }
+
+ .hr_line5 {
+     width: 50px;
+     border-bottom: 2px solid #35bcd5;
+     margin: auto
+ }
+
+ /*contackt us*/
+
+ .company-contact-wrap {
+     position: relative;
+     overflow: hidden;
+     color: #5b5b5b
+ }
+
+ .company-contact-wrap .text-con {
+     position: relative;
+     float: left;
+     background: #fafafa;
+     width: 50%;
+ }
+
+ /**�쇱そ �띿뒪��**/
+
+ .company-contact-wrap .left-box {
+     width: 550px;
+     float: right;
+     text-align: left;
+     padding: 100px 0px 150px 0px
+ }
+
+ .company-contact-wrap .contact-tit {
+     font-size: 25px;
+     color: #5b5b5b;
+     padding-bottom: 30px
+ }
+
+ .company-contact-wrap .contact-txt dt {
+     font-size: 18px;
+     font-weight: bold;
+     padding-top: 30px
+ }
+
+ .company-contact-wrap .contact-txt dd {
+     font-size: 18px;
+     padding: 5px 0px
+ }
+
+ /**�ㅻⅨ履� �띿뒪��**/
+
+ .company-contact-wrap .right_box {
+     text-align: left;
+     padding: 100px 0px 90px 90px;
+     overflow: hidden
+ }
+
+ .contact-txt .txt-style {
+     font-weight: 500
+ }
+
+ .pt-30 {
+     padding-top: 30px;
+ }

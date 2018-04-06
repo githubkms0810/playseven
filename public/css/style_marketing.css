@@ -1,5 +1,11 @@
 /*content-marketing------------------------------------*/
-
+.marketing_content{
+    padding-top: 50px;
+    font-size: 40px;
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+}
 .marketing p {
     color: #fff;
 }
