@@ -1,10 +1,7 @@
 <link rel="stylesheet" type="text/css" href="/public/css/style_marketing.css" />
-
-
-
 <div class="section fp-auto-height" id="section0" style="background-color: aliceblue;">
     <div class="marketings">
-        <div class="marketings_title">홍보마케팅페이지제목</div>
+        <div class="marketings_title">A CONSTANT CHALLENGE TO NEW MARKETS</div>
     </div>
 </div>
 <div class="section fp-auto-height" id="section1">
