@@ -15,6 +15,12 @@ class Base extends \Base_Controller {
         // $this->noDisplay = true;
     }
     
+    public function about_us()
+    {
+        $data["content_view"] = "base/about_us";
+        $this->template->render($data);
+    }
+    
     public function index_web()
     {
         $data["content_view"] = "base/index_web";

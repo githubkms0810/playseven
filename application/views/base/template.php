@@ -39,9 +39,9 @@
     <div id="header">
         <header class="home-header">
             <div class="bc-container">
-                <h1 class="home-logo">
-                    <div style="margin-top:-40px;"><a href="/"><img src="/public/images/logo.png"/></a></div>
-                </h1>
+                <div class="home-logo">
+                    <a href="#"><img src="/public/images/logo.png"/></a>
+                </div>
                 <nav>
                     <ul class="home-nav__list1 ">
                         <li>
@@ -62,7 +62,7 @@
                     </ul>
                     <ul class="home-nav__list2">
                         <li>
-                            <a class="home-nav_btn" href="#">문의하기</a>
+                            <a class="home-nav_btn" href="/contact/add">문의하기</a>
                         </li>
                     </ul>
                 </nav>

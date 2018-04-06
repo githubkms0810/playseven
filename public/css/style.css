@@ -369,7 +369,7 @@ p {
 
 .home-logo {
     position: absolute;
-    color: white;
+    margin-top: 24px;
 }
 
 .home-logo a{
