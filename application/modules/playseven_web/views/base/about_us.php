@@ -63,14 +63,15 @@
                     <p class="contact-tit">Contact us</p>
                     <dl class="contact-txt">
                         <dt>Phone </dt>
-                        <dd><strong>02.6402.8206</strong> <br> 내선 1번 : 회원문의/요청<br> 내선 2번 : 골프장 유지관리, 골프장 신규제휴<br> 내선 3번 : 기타 사업/광고 제휴 및 문의<br>
+                        <dd><strong>02.6959.5454</strong>
 
-                            <p class="pt-30">[평일] AM 09: 00 ~ PM 06:00 [토요일/공휴일] 휴무<br> ※ 토요일/공휴일은 게시판을 이용해주세요.</p>
+                            <p class="pt-30">[평일] AM 09: 30 ~ PM 06:30 [토요일/공휴일] 휴무<br> ※ 토요일/공휴일은 게시판을 이용해주세요.</p>
                         </dd>
                         <dt>Email</dt>
-                        <dd>help@smartscore.kr</dd>
+                        <dd>sbin910@playseven.co.kr</dd>
                         <dt>Website</dt>
-                        <dd>http://www.golfpass.net/</dd>
+                        <dd>http://www.playseven.co.kr</dd>
+                        <dd>http://www.golfpass.net</dd>
                     </dl>
                 </div>
             </div>
@@ -78,14 +79,14 @@
                 <p class="contact-tit">Location</p>
                 <dl class="contact-txt">
                     <dt>Address</dt>
-                    <dd>서울특별시 강남구 삼성로 122길 46 (우)06085</dd>
+                    <dd>서울특별시 강서구 공항대로 227</dd>
                     <dt>대중교통 이용시</dt>
                     <dd>
-                        <p class="pt-10 mb-10 txt-style">지하철 이용시</p>
-                        지하철 7호선 청담역 3번출구에서<br> : 도미노피자 건물을 끼고 우회전하여 골목으로 80m 직진시 골프패스 <br> 지하철 9호선 봉은사역 2번출구에서<br> : 직진 약 580m(영동대로) 이동후 좌회전하여 80m 직진, 우측 내리막길 50m 직진후 좌측 건물
+                        <p class="pt-10 mb-10 txt-style">지하철 이용 시</p>
+                        지하철 5호선 발산역 9번 출구에서<br> : 쭉 직진한 뒤 알파문고 건물 11층 파란문<br><br>
 
-                        <p class="pt-40 mb-10 txt-style">버스 이용시</p>
-                        청담역, 경기고교 하차<br> : 301, 401, 2415, 3414, 4419<br> 우리은행청담지점,청담삼익아파트 하차<br> : [간선] 143, 146, 362 [지선] 2413, 3217, 4318 [직행] 9407, 9507, 9607
+                        <p class="pt-40 mb-10 txt-style">버스 이용 시</p>
+                        마곡동 사거리 하차<br> : 60, 60-3, 88, 1002, 601, 605, N26, 6629, 2000, 3000, 6000, 6003,6008
                     </dd>
                 </dl>
             </div>
