@@ -34,7 +34,6 @@
     <script type="text/javascript" src="/public/js/footer-animation.js"></script>
     <script src="/public/js/scrollreveal.js"></script>
 </head>
-
 <body>
     <div id="header">
         <header class="home-header">
@@ -69,15 +68,9 @@
             </div>
         </header>
     </div>
-
     <?=$this->load->views($content_view)?>
-
-
         <script>
             var Portfolio = new Jy.KTC.Portfolio();
-
         </script>
-
 </body>
-
 </html>

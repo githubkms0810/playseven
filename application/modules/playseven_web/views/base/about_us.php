@@ -53,8 +53,6 @@
 
             </script>
             <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAgc7-yrPMHodzq2E6F3Zs9YMN9KEvgYkM&callback=initMap">
-
-
             </script>
 
 
@@ -86,7 +84,7 @@
                         지하철 5호선 발산역 9번 출구에서<br> : 쭉 직진한 뒤 알파문고 건물 11층 파란문<br><br>
 
                         <p class="pt-40 mb-10 txt-style">버스 이용 시</p>
-                        마곡동 사거리 하차<br> : 60, 60-3, 88, 1002, 601, 605, N26, 6629, 2000, 3000, 6000, 6003,6008
+                        마곡동 사거리 하차<br> : 60, 60-3, 88, 1002, 601, 605, N26, 6629, 2000, 3000, 6000, 6003, 6008
                     </dd>
                 </dl>
             </div>

@@ -27,7 +27,7 @@
         <div class="footer">
             <div class="footer_content">
                 <div style="height:65px;">
-                    <a href="https://www.naver.com/" target="_blank"><img src="/public/images/main-footer.png"></a>
+                    <a href="http://golfpass.net/" target="_blank"><img src="/public/images/main-footer.png"></a>
                 </div>
             </div>
         </div>
@@ -38,7 +38,7 @@
                         <img src="/public/images/main-section-1_txt.png">
                     </div>
                     <div class="intro-btn">
-                        <a href="https://www.naver.com/" target="_blank">
+                        <a href="#" target="_blank">
                             <div class="intro-btn_portfolio">
                             </div>
                         </a>
@@ -58,7 +58,7 @@
     <div class="section moveDown" id="section1">
         <div class="footer">
             <div class="footer_content">
-                <a href="https://www.naver.com/" target="_blank"><img src="/public/images/main-footer.png"></a>
+                <a href="http://golfpass.net/" target="_blank"><img src="/public/images/main-footer.png"></a>
             </div>
         </div>
         <div class="slide" id="slide1">
@@ -108,7 +108,7 @@
     <div class="section moveDown" id="section2">
         <div class="footer">
             <div class="footer_content">
-                <a href="https://www.naver.com/" target="_blank"><img src="/public/images/main-footer.png"></a>
+                <a href="http://golfpass.net/" target="_blank"><img src="/public/images/main-footer.png"></a>
             </div>
         </div>
         <div class="slide" id="slide1">
@@ -137,7 +137,7 @@
     <div class="section moveDown" id="section3">
         <div class="footer">
             <div class="footer_content">
-                <a href="https://www.naver.com/" target="_blank"><img src="/public/images/main-footer.png"></a>
+                <a href="http://golfpass.net/" target="_blank"><img src="/public/images/main-footer.png"></a>
             </div>
         </div>
         <div class="slide" id="slide1">
@@ -148,7 +148,7 @@
                     </div>
 
                         <div class="golf_intro-btn">
-                            <a href="/contact/add" target="_blank">
+                            <a href="/playseven_marketing/index_marketing" target="_blank">
                                 <div class="about-btn_portfolio">
                                 </div>
                             </a>
