@@ -353,25 +353,34 @@ Projects
   height: 60vh;
 }
 
-.cd-projects-previews a,
+.cd-projects-previews a{
+    background: #5b927d url(/public/images/img-3.jpg) no-repeat center center;
+  background-size: cover;
+}
 .cd-projects .preview-image {
   /* set a background image for each project */
-  background: #5b927d url(/public/images/img-1.jpg) no-repeat center center;
+  background: #5b927d url(/public/images/img-3.jpg) no-repeat center center;
   background-size: cover;
 }
 
-.cd-projects-previews li:nth-of-type(2) a,
+.cd-projects-previews li:nth-of-type(2) a{
+    background: #e7d5a4 url(/public/images/img-1.jpg) no-repeat center center;
+  background-size: cover;
+}
 .cd-projects > li:nth-of-type(2) .preview-image {
-  background: #a8ae7e url(/public/images/img-2.jpg) no-repeat center center;
+  background: #a8ae7e url(/public/images/img-1.jpg) no-repeat center center;
   background-size: cover;
+
 }
 
-.cd-projects-previews li:nth-of-type(3) a,
+.cd-projects-previews li:nth-of-type(3) a{
+    background: #e7d5a4 url(/public/images/img-2.jpg) no-repeat center center;
+  background-size: cover;
+}
 .cd-projects > li:nth-of-type(3) .preview-image {
-  background: #e7d5a4 url(/public/images/img-3.jpg) no-repeat center center;
+  background: #e7d5a4 url(/public/images/img-2.jpg) no-repeat center center;
   background-size: cover;
 }
-
 
 
 .cd-project-title {
@@ -431,6 +440,7 @@ Projects
   font-size: 2.5rem;
   line-height: 1.5;
   font-weight: 700;
+    color: #fff;
 }
 .cd-project-title p {
   font-size: 1.4rem;

@@ -29,7 +29,7 @@
 </div>
 <div class="section fp-auto-height" id="section2">
     <div class="marketing" id="marketing_no2">
-        <img class="imgs" src="/public/images/2.jpg" />
+        <img class="imgs" src="/public/images/business2.png" />
         <div class="marketing_no2">
             <img class="info_2" src="/public/images/txt_info_2.png">
         </div>
@@ -37,7 +37,7 @@
 </div>
 <div class="section fp-auto-height" id="section3">
     <div class="marketing" id="marketing_no3">
-        <img class="imgs" src="/public/images/3.jpg" />
+        <img class="imgs" src="/public/images/business3.png" />
         <div class="marketing_no3">
             <img class="info_3" src="/public/images/txt_info_3.png">
         </div>
@@ -45,7 +45,7 @@
 </div>
 <div class="section fp-auto-height" id="section4">
     <div class="marketing" id="marketing_no3">
-        <img class="imgs" src="/public/images/4.jpg" />
+        <img class="imgs" src="/public/images/business4.png" />
         <div class="marketing_no4">
             <img class="info_4" src="/public/images/txt_info_4.png">
         </div>
