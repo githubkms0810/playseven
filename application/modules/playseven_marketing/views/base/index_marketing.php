@@ -21,7 +21,7 @@
 </div>
 <div class="section fp-auto-height" id="section1">
     <div class="marketing">
-        <img class="imgs" src="/public/images/1.jpg">
+        <img class="imgs" src="/public/images/business1.png">
         <div class="marketing_no1">
             <img class="info_1" src="/public/images/txt_info_1.png">
         </div>
