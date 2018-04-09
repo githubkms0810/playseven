@@ -6,10 +6,10 @@
             <div class="company-about-wrap">
             <div class="w1100_wrap pt-120">
                 <p class="company-about-tit">COMPANY</p>
-                <h3>새로운 골프문화를 선도하는 골프패스</h3>
+                <h3>Golf Passes Leading the New Golf Culture</h3>
                 <div class="company-about-txt">
                     <div class=" pt-50">
-                        안녕하십니까. 골프패스입니다.<br> 골프는 많은 현대인들의 친구이자 위로입니다. 더 가까운 친구, 더 즐겁고<br> 따뜻한 위로가 되도록 하겠습니다.직원들, 회원들, 골퍼들, 골프장 모두의 새로운<br> 행복을 위하여 항상 노력하는 골프패스가 되겠습니다.<br>
+                        Hello. Golf passes.<br> Golf is a friend and back of many modern people. Closer friends, more enjoyable<br>Let's be warm and comfortable. It's a great place to stay for our employees, members, golfers,<br>I will be a golf pass that will always strive for happiness.<br>
                     </div>
                     <div class="hr_line5 pt-60"></div>
                 </div>

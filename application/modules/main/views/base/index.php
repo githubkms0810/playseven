@@ -91,13 +91,13 @@
                                         <img src="/public/images/test4.png" />
                                     </div>
                                 </div>
-                                <!--Custom navigation buttons on both sides-->
+                                <!--Custom navigation buttons on both sides
                                 <div id="thumbs">
                                     <div class="thumb"><img src="/public/images/navi1.png" /></div>
                                     <div class="thumb"><img src="/public/images/navi2.png" /></div>
                                     <div class="thumb"><img src="/public/images/navi3.png" /></div>
                                     <div class="thumb"><img src="/public/images/navi4.png" /></div>
-                                </div>
+                                </div>-->
                             </div>
                         </div>
                     </div>

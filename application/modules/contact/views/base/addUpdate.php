@@ -31,7 +31,7 @@ scrollTop: $('.container-contact100').offset().top
 </script>
 
 	<div class="container-contact100" style="margin-top:1px;">
-		<div class="contact100-map" id="google_map" data-map-x="37.616217" data-map-y="126.834748" data-pin="images/icons/map-marker.png" data-scrollwhell="0" data-draggable="1"></div>
+		<div class="contact100-map" id="google_map" data-map-x="37.558613" data-map-y="126.837683" data-pin="images/icons/map-marker.png" data-scrollwhell="0" data-draggable="1"></div>
 		<button class="contact100-btn-show" onclick="changeZIndexBySelector(99999,'.container-contact100');">
 			<i class="fa fa-envelope-o" aria-hidden="true"></i>
 		</button>
@@ -43,11 +43,11 @@ scrollTop: $('.container-contact100').offset().top
 
 			<form action="/contact/add" method="post" class="contact100-form validate-form">
 				<span class="contact100-form-title" style="font-weight:bold;">
-					제휴 문의
+					Contact us
 				</span>
 
 				<div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="회사명을 입력해주세요.">
-					<span class="label-input100">회사</span>
+					<span class="label-input100">Company</span>
 					<input class="input100" type="text" name="company_name" value="<?=DEBUG === true ? "테스트회사명": ""?>">
 					<span class="focus-input100"></span>
 				</div>
@@ -59,20 +59,20 @@ scrollTop: $('.container-contact100').offset().top
 				</div>
 
 				<div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="담당자를 입력해주세요.">
-					<span class="label-input100">담당자</span>
+					<span class="label-input100">Manager name</span>
 					<input class="input100" type="text" name="manager" value="<?=DEBUG === true ? "테스트 담당자명": ""?>">
 					<span class="focus-input100"></span>
 				</div>
 
 				<div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="담당자 연락처를 입력해주세요.">
-					<span class="label-input100">담당자 연락처</span>
+					<span class="label-input100">Manager contacts</span>
 					<input class="input100" type="text" name="manager_phone" value="<?=DEBUG === true ? "테스트 담당자 연락처": ""?>">
 					<span class="focus-input100"></span>
 				</div>
 
 
 				<div class="wrap-input100 validate-input" data-validate = "내용을 입력해주세요.">
-					<span class="label-input100">내용</span>
+					<span class="label-input100">Contents</span>
 					<textarea class="input100" name="desc"><?=DEBUG === true ? "테스트메세지": ""?></textarea>
 					<span class="focus-input100"></span>
 				</div>
@@ -80,7 +80,7 @@ scrollTop: $('.container-contact100').offset().top
 				<div class="container-contact100-form-btn">
 					<button class="contact100-form-btn">
 						<span>
-							문의하기
+							Contact us
 							<i class="fa fa-long-arrow-right m-l-7" aria-hidden="true"></i>
 						</span>
 					</button>
@@ -88,7 +88,7 @@ scrollTop: $('.container-contact100').offset().top
 			</form>
 
 			<span class="contact100-more">
-				빠른 답변을 원하시면 전화로 문의해주세요! <span class="contact100-more-highlight">02-6959-5454</span>
+				For a quick answer, please call us! <span class="contact100-more-highlight">02-6959-5454</span>
 			</span>
 		</div>
 	</div>

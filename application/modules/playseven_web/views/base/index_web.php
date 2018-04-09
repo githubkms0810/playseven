@@ -52,67 +52,13 @@
                 </div>
             </div>
             <div class="col-sm-4 text-center">
-                <h3 style="border:0">다이어트짐</h3>
-                <div class="demo_box1">
-                    <img class="img-responsive" src="/public/assets/images/1.png" alt="Page">
-                </div>
-            </div>
-            <div class="col-sm-4 text-center">
-                <h3 style="border:0">잡댄스</h3>
-                <div class="demo_box1">
-                    <img class="img-responsive" src="/public/assets/images/1.png" alt="Page">
-                </div>
-            </div>
-            <div class="col-sm-4 text-center">
-                <h3 style="border:0">잡댄스 블로그</h3>
-                <div class="demo_box1">
-                    <img class="img-responsive" src="/public/assets/images/1.png" alt="Page">
-                </div>
-            </div>
-            <div class="col-sm-4 text-center">
                 <h3 style="border:0">플레이세븐 레포트</h3>
                 <div class="demo_box1">
                     <img class="img-responsive" src="/public/assets/images/1.png" alt="Page">
                 </div>
             </div>
             <div class="col-sm-4 text-center">
-                <h3 style="border:0">소명여자고등학교</h3>
-                <div class="demo_box1">
-                    <img class="img-responsive" src="/public/assets/images/1.png" alt="Page">
-                </div>
-            </div>
-            <div class="col-sm-4 text-center">
-                <h3 style="border:0">렉스 댄스 엔터테인먼트</h3>
-                <div class="demo_box1">
-                    <img class="img-responsive" src="/public/assets/images/1.png" alt="Page">
-                </div>
-            </div>
-            <div class="col-sm-4 text-center">
-                <h3 style="border:0">더 파라코드</h3>
-                <div class="demo_box1">
-                    <img class="img-responsive" src="/public/assets/images/1.png" alt="Page">
-                </div>
-            </div>
-            <div class="col-sm-4 text-center">
-                <h3 style="border:0">에듀벤테이지 블로그</h3>
-                <div class="demo_box1">
-                    <img class="img-responsive" src="/public/assets/images/1.png" alt="Page">
-                </div>
-            </div>
-            <div class="col-sm-4 text-center">
                 <h3 style="border:0">골프패스 블로그</h3>
-                <div class="demo_box1">
-                    <img class="img-responsive" src="/public/assets/images/1.png" alt="Page">
-                </div>
-            </div>
-            <div class="col-sm-4 text-center">
-                <h3 style="border:0">설치맨 블로그</h3>
-                <div class="demo_box1">
-                    <img class="img-responsive" src="/public/assets/images/1.png" alt="Page">
-                </div>
-            </div>
-            <div class="col-sm-4 text-center">
-                <h3 style="border:0">다이어트짐 블로그</h3>
                 <div class="demo_box1">
                     <img class="img-responsive" src="/public/assets/images/1.png" alt="Page">
                 </div>
