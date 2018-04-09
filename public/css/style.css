@@ -512,20 +512,20 @@ p {
     /*background: rgba(255, 255, 255, 0.25);*/
     height: 100%;
     width: 100%;
-    background-image: url(/public/images/section0_bg.jpg);
+    background-image: url(/public/images/section0_bg.png);
     background-position: center;
 }
 
 .intro {
-    padding-top: 17%;
-    padding-left: 31%;
+    padding-top: 15%;
+    padding-left: 30%;
     max-width: fit-content;
 }
 
 .intro-title {
     font-size: 60px;
     color: white;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
 }
 
 
