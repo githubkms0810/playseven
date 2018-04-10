@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
-
 <head>
-    <title>PLAYSEVEN | 꽃 우는 붙잡아</title>
-    <meta name="description" content="옷을 풍부하게 현저하게 심장의 크고 이것이다">
+    <title>PLAYSEVEN | We are the best in our field.</title>
+    <meta name="description" content="We are the best in our field.">
     <link rel="canonical" href="http://www.playseven.co.kr">
     <link rel="shortcut icon" href="/public/images/favicon.ico">
     <meta property="og:type" content="website">
     <meta property="og:url" content="http://www.playseven.co.kr">
     <meta property="og:image" content="/public/images/thum.jpg">
-    <meta property="og:title" content="PLAYSEVEN | 꽃 우는 붙잡아">
-    <meta property="og:description" content="옷을 풍부하게 현저하게 심장의 크고 이것이다">
+    <meta property="og:title" content="PLAYSEVEN | We are the best in our field.">
+    <meta property="og:description" content="We are the best in our field.">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <link rel="stylesheet" type="text/css" href="/public/css/jquery.fullPage.css" />
     <link rel="stylesheet" type="text/css" href="/public/css/style.css" />
