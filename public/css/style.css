@@ -351,7 +351,7 @@ p {
 }
 
 .bc-container {
-    width: 1200px;
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -371,6 +371,7 @@ p {
 .home-logo {
     position: absolute;
     margin-top: 24px;
+    margin-left: 10%;
 }
 
 .home-logo a{
@@ -425,7 +426,7 @@ p {
     background-color: transparent;
     top: 18px;
     padding: 0;
-    right: 200px;
+    right: 20%;
 }
 
 .home-nav__list2 > li {
@@ -545,7 +546,7 @@ p {
 
 .intro {
     padding-top: 15%;
-    padding-left: 30%;
+    margin: 0 auto;
     max-width: fit-content;
 }
 

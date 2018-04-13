@@ -16,8 +16,8 @@
   margin-top: -45px;
   background: #111;
   border-radius: 5px;
-  -webkit-transform: translate3d(-50%, 0, 0);
-          transform: translate3d(-50%, 0, 0);
+  -webkit-transform: translate3d(-80%, 0, 0);
+          transform: translate3d(-80%, 0, 0);
   /*box-shadow: 0 10px 35px rgba(0, 0, 0, 0.2);*/
 }
 .nav__cb {
@@ -37,11 +37,11 @@
 }
 .nav__cb:checked ~ .nav__content {
   transition: width 1s cubic-bezier(0.48, 0.43, 0.29, 1.3);
-  width: 610px;
+  width: 660px;
 }
 .nav__items {
   position: relative;
-  width: 610px;
+  width: 660px;
   height: 100%;
   padding-left: 20px;
   padding-right: 70px;

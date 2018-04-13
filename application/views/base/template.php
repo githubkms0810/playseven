@@ -92,18 +92,23 @@
                                                 <a href="/playseven_marketing/index_marketing">golf business</a>
                                             </span>
                                         </li>
+                                        <li class="nav__item">
+                                            <span class="nav__item-text">
+                                                <a href="/contact/add">contact us</a>
+                                            </span>
+                                        </li>
                                     </ul>
 
                                 </div>
                                 <label class="nav__btn" for="menu-cb"></label>
                             </nav>
                         </li>
-                    </ul>
+                    <!--</ul>
                     <ul class="home-nav__list3">
                         <li>
                             <a class="home-nav_btn" href="/contact/add">contact us</a>
                         </li>
-                    </ul>
+                    </ul>-->
                 </nav>
             </div>
         </header>

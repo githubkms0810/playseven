@@ -49,6 +49,7 @@
                             <param name="allowscriptaccess" value="always"></param>
                             <iframe src="https://www.youtube.com/embed/XwtX5ABOOww" width="100%" height="100%" allowscriptaccess="always" allow="autoplay; encrypted-media" allowfullscreen="true"></iframe>
                         </object>
+            <div><button><a href="javascript:void(0)" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">닫기</a></button></div>
 
                         <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">닫기</a>
                     </div>
