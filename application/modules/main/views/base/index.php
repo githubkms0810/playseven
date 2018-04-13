@@ -1,6 +1,5 @@
-
-
 <script type="text/javascript">
+
     $(document).ready(function() {
         $('#fullpage').fullpage({
             css3: true,
@@ -49,9 +48,11 @@
                             <param name="allowscriptaccess" value="always"></param>
                             <iframe src="https://www.youtube.com/embed/XwtX5ABOOww" width="100%" height="100%" allowscriptaccess="always" allow="autoplay; encrypted-media" allowfullscreen="true"></iframe>
                         </object>
-            <div><button><a href="javascript:void(0)" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">닫기</a></button></div>
-
-                        <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">닫기</a>
+                        <div>
+                            <button>
+                                <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">닫기</a>
+                            </button>
+                        </div>
                     </div>
                 </DIV>
                 <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">
@@ -63,7 +64,8 @@
                         <img src="/public/images/main-section-1_txt.png">
                     </div>
                     <div class="intro-btn">
-                        <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">
+                        <!--<a href="javascript:void(0)" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">-->
+                        <a href="#">
                             <div class="intro-btn_portfolio">
                             </div>
                         </a>
@@ -139,6 +141,32 @@
         </div>
         <div class="slide" id="slide1">
             <div class="features_container" id="golfpass1">
+                
+                
+                <DIV style="margin: 0 auto; width: 50%;">
+                    <div id="light2" class="white_content">
+                        <!--유투브소스 -->
+
+                        <object width="100%" height="100%">
+                            <param name="movie" value="https://youtu.be/XwtX5ABOOww"></param>
+                            <param name="allowFullScreen" value="true"></param>
+                            <param name="allowscriptaccess" value="always"></param>
+                            <iframe src="https://www.youtube.com/embed/XwtX5ABOOww" width="100%" height="100%" allowscriptaccess="always" allow="autoplay; encrypted-media" allowfullscreen="true"></iframe>
+                        </object>
+                        <div>
+                            <button>
+                                <a href="javascript:void(0)" onclick="document.getElementById('light2').style.display='none';document.getElementById('fade2').style.display='none'">닫기</a>
+                            </button>
+                        </div>
+                    </div>
+                </DIV>
+
+                <a href="javascript:void(0)" onclick="document.getElementById('light2').style.display='none';document.getElementById('fade2').style.display='none'">
+                    <div id="fade2" class="black_overlay"></div>
+                </a>
+
+
+
                 <div class="features">
                     <div class="features-title">
                         <img src="/public/images/main-section-3_txt.png">
@@ -148,15 +176,13 @@
                             GOLFPASS.NET
                         </div>
                     </div>
+                    <div class="features-btn">
+                        <a href="javascript:void(0)" onclick="document.getElementById('light2').style.display='block';document.getElementById('fade2').style.display='block'">
+                            <div class="features-btn_portfolio">
+                            </div>
+                        </a>
+                    </div>
                 </div>
-            </div>
-        </div>
-        <div class="slide" id="slide2">
-            <div class="feature_video">
-                <video autoplay controls id="myvideo">
-                        <source  src="/public/video/golfpass.mp4" type="video/mp4">
-                         video 요소를 지원하지 않는 브라우저입니다. 동영상은 다운로드 후 볼 수 있습니다.
-                    </video>
             </div>
         </div>
     </div>

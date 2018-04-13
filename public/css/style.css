@@ -371,7 +371,7 @@ p {
 .home-logo {
     position: absolute;
     margin-top: 24px;
-    margin-left: 10%;
+    margin-left: 15%;
 }
 
 .home-logo a{
@@ -808,11 +808,24 @@ video {
     padding: 15px 50px 15px 50px;
     border-radius: 3px;
 }
+.features-btn_portfolio {
+    background-color: transparent;
+    text-align: center;
+    border-radius: 3px;
+    width: 220px;
+    height: 65px;
+    display: inline-block;
+}
 
 .features-btn {
-    margin-top: 70px;
-    margin-left: 10%;
-    position: absolute;
+    background-image: url(/public/images/main-section-0_btn.png);
+    background-repeat: no-repeat;
+    width: fit-content;
+    /*
+    margin-top:-69px;
+    margin-left:395px;
+    */
+    margin-top: 20px;
 }
 
 #section2 .features {

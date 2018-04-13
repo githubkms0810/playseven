@@ -13,7 +13,7 @@
 				<a href="#0">
 					<div class="cd-project-title">
 						<h2>Press release</h2>
-						<p>It is an advanced marketing method that uses the credibility of the media as a means of publicity.</p>
+
 					</div>
 				</a>
 			</li>
@@ -22,7 +22,7 @@
 				<a href="#0">
 					<div class="cd-project-title">
 						<h2>Blog Marketing (Viral Marketing)</h2>
-						<p>Viral marketing is a way to enhance brand image, service reliability and value through interactive.</p>
+
 					</div>
 				</a>
 			</li>
@@ -31,7 +31,6 @@
 				<a href="#0">
 					<div class="cd-project-title">
 						<h2>Search Ads (Keyword Ads)</h2>
-						<p>Search ads use the best search terms through industry type and market / user analysis, and provide quick access to advertisers' goals.</p>
 					</div>
 				</a>
 			</li>
@@ -44,7 +43,6 @@
 				<div class="preview-image">
 					<div class="cd-project-title">
 						<h2>Press release</h2>
-						<p>It is an advanced marketing method that uses the credibility of the media as a means of publicity.</p>
 					</div> 
 				</div>
 
@@ -66,7 +64,6 @@
 				<div class="preview-image">
 					<div class="cd-project-title">
 						<h2>Blog Marketing (Viral Marketing)</h2>
-						<p>Viral marketing is a way to enhance brand image, service reliability and value through interactive.</p>
 					</div> 
 				</div>
 
@@ -91,7 +88,6 @@
 				<div class="preview-image">
 					<div class="cd-project-title">
 						<h2>Search Ads (Keyword Ads)</h2>
-						<p>Search ads use the best search terms through industry type and market / user analysis, and provide quick access to advertisers' goals.</p>
 					</div> 
 				</div>
 
