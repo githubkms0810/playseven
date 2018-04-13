@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
+
 <head>
     <title>PLAYSEVEN | We are the best in our field.</title>
     <meta name="description" content="We are the best in our field.">
@@ -32,7 +33,9 @@
     <script type="text/javascript" src="/public/js/jquery.fullPage.js"></script>
     <script type="text/javascript" src="/public/js/footer-animation.js"></script>
     <script src="/public/js/scrollreveal.js"></script>
+    <link rel="stylesheet" href="/public/css/style_header.css">
 </head>
+
 <body>
     <div id="header">
         <header class="home-header">
@@ -41,7 +44,7 @@
                     <a href="/main/index"><img src="/public/images/logo.png"/></a>
                 </div>
                 <nav>
-                    <ul class="home-nav__list1 ">
+                    <!--<ul class="home-nav__list1 ">
                         <li>
                             <a href="/playseven_web/about_us">about us</a>
                         </li>
@@ -57,8 +60,46 @@
                         <li>
                             <a href="/playseven_marketing/index_marketing">golf business</a>
                         </li>
-                    </ul>
+                    </ul>-->
                     <ul class="home-nav__list2">
+                        <li>
+                            <nav class="nav">
+                                <input type="checkbox" class="nav__cb" id="menu-cb" />
+                                <div class="nav__content">
+                                    <ul class="nav__items">
+                                        <li class="nav__item">
+                                            <span class="nav__item-text">
+                                                <a href="/playseven_web/about_us">about us</a>
+                                            </span>
+                                        </li>
+                                        <li class="nav__item">
+                                            <span class="nav__item-text">
+                                                <a href="/playseven_golfpass/index_golfpass">golfpass</a>
+                                            </span>
+                                        </li>
+                                        <li class="nav__item">
+                                            <span class="nav__item-text">
+                                                <a href="/playseven_golfbusiness/index_golfbusiness">marketing</a>
+                                            </span>
+                                        </li>
+                                        <li class="nav__item">
+                                            <span class="nav__item-text">
+                                                <a href="/playseven_web/index_web">web agency</a>
+                                            </span>
+                                        </li>
+                                        <li class="nav__item">
+                                            <span class="nav__item-text">
+                                                <a href="/playseven_marketing/index_marketing">golf business</a>
+                                            </span>
+                                        </li>
+                                    </ul>
+
+                                </div>
+                                <label class="nav__btn" for="menu-cb"></label>
+                            </nav>
+                        </li>
+                    </ul>
+                    <ul class="home-nav__list3">
                         <li>
                             <a class="home-nav_btn" href="/contact/add">contact us</a>
                         </li>
@@ -70,6 +111,8 @@
     <?=$this->load->views($content_view)?>
         <script>
             var Portfolio = new Jy.KTC.Portfolio();
+
         </script>
 </body>
+
 </html>

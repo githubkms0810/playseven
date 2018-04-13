@@ -1,3 +1,5 @@
+
+
 <script type="text/javascript">
     $(document).ready(function() {
         $('#fullpage').fullpage({
@@ -22,6 +24,9 @@
 </script>
 
 
+
+
+
 <div id="fullpage">
     <div class="section moveDown" id="section0">
         <div class="footer">
@@ -32,28 +37,48 @@
             </div>
         </div>
         <div class="slide" id="slide1">
+
             <div class="intro_container">
+                <DIV style="margin: 0 auto; width: 50%;">
+                    <div id="light" class="white_content">
+                        <!--유투브소스 -->
+
+                        <object width="100%" height="100%">
+                            <param name="movie" value="https://youtu.be/XwtX5ABOOww"></param>
+                            <param name="allowFullScreen" value="true"></param>
+                            <param name="allowscriptaccess" value="always"></param>
+                            <iframe src="https://www.youtube.com/embed/XwtX5ABOOww" width="100%" height="100%" allowscriptaccess="always" allow="autoplay; encrypted-media" allowfullscreen="true"></iframe>
+                        </object>
+
+                        <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">닫기</a>
+                    </div>
+                </DIV>
+                <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">
+                    <div id="fade" class="black_overlay"></div>
+                </a>
+
                 <div class="intro">
                     <div class="intro-title">
                         <img src="/public/images/main-section-1_txt.png">
                     </div>
                     <div class="intro-btn">
-                        <a href="#" target="_blank">
+                        <a href="javascript:void(0)" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">
                             <div class="intro-btn_portfolio">
                             </div>
                         </a>
                     </div>
+
                 </div>
             </div>
         </div>
-        <div class="slide" id="slide2">
+        <!--<div class="slide" id="slide2">
             <div class="intro_video">
                 <video autoplay controls id="myvideo">
                         <source  src="/public/video/golfpass.mp4" type="video/mp4">
                          video 요소를 지원하지 않는 브라우저입니다. 동영상은 다운로드 후 볼 수 있습니다.
                     </video>
             </div>
-        </div>
+        </div>-->
     </div>
     <div class="section moveDown" id="section1">
         <div class="footer">
@@ -118,7 +143,7 @@
                         <img src="/public/images/main-section-3_txt.png">
                     </div>
                     <div style="background-image: url(/public/images/searchbox.png); background-repeat: no-repeat; margin-top: 30px;">
-                        <div class="features-content" onclick="window.open('about:blank').location.href='http://golfpass.net'" style="cursor: pointer; width: 356px; height: 50px;">
+                        <div class="features-content" onclick="window.open('about:blank').location.href='http://golfpass.net'" style="cursor: pointer; width: 356px;">
                             GOLFPASS.NET
                         </div>
                     </div>
@@ -147,12 +172,12 @@
                         <img src="/public/images/main-section-4_txt.png">
                     </div>
 
-                        <div class="golf_intro-btn">
-                            <a href="/playseven_marketing/index_marketing" target="_blank">
-                                <div class="about-btn_portfolio">
-                                </div>
-                            </a>
-                        </div>
+                    <div class="golf_intro-btn">
+                        <a href="/playseven_marketing/index_marketing" target="_blank">
+                            <div class="about-btn_portfolio">
+                            </div>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
