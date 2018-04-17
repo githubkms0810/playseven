@@ -5,7 +5,7 @@
 <div id="wrap">
     <div id="container_wrap">
         <!-- CONTENT [[ -->
-        <div class="company-about-wrap">
+        <div class="company-about-wrap" style="display:none;">
             <div class="w1100_wrap pt-120">
                 <br><br><br><br>
                 <p class="company-about-tit">COMPANY</p>

@@ -48,7 +48,7 @@
             <div class="col-sm-4 text-center">
                 <h3 style="border:0">플레이세븐</h3>
                 <div class="demo_box1">
-                    <img class="img-responsive" src="/public/assets/images/1.png" alt="Page">
+                    <img class="img-responsive" src="/public/assets/images/3.png" alt="Page">
                 </div>
             </div>
             <div class="col-sm-4 text-center">

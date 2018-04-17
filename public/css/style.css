@@ -547,7 +547,7 @@ p {
 .intro {
     padding-top: 15%;
     margin: 0 auto;
-    max-width: fit-content;
+    width:800px;
 }
 
 .intro-title {

@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="/public/css/style_marketing.css" />
 
 <div class="section fp-auto-height" id="section0" style="background-color: #fff;">
-    <div class="marketings">
+    <div class="marketings" style="display:none;">
         <div class="marketings_title">
             <div class="company-about-wrap">
             <div class="w1100_wrap pt-120">

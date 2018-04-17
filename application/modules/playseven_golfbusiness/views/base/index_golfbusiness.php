@@ -104,8 +104,6 @@
 
 		
 		</ul> <!-- .cd-projects -->
-
-		<button class="scroll cd-text-replace">Scroll</button>
 	</div> <!-- .cd-project-container -->
 
 	<nav class="cd-primary-nav" id="primary-nav">
