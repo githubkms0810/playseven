@@ -422,11 +422,11 @@ p {
 }
 
 .home-nav__list2 {
-    position: absolute;
+    position: relative;
     background-color: transparent;
     top: 18px;
     padding: 0;
-    right: 20%;
+    right: -30%;
 }
 
 .home-nav__list2 > li {
@@ -580,7 +580,7 @@ p {
     background-image: url(/public/images/main-section-0_btn.png);
     background-repeat: no-repeat;
     margin: 0 auto;
-    width: fit-content;
+    width: 220px;
 }
 
 .golf_intro-btn {
