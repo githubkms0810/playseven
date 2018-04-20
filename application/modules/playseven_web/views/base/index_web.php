@@ -42,25 +42,25 @@
             <div class="col-sm-4 text-center">
                 <h3 style="border:0">목일신 기념사업회</h3>
                 <div class="demo_box1">
-                    <img class="img-responsive" src="/public/assets/images/1.png" alt="Page">
+                    <img class="img-responsive" src="/public/assets/images/3.png" alt="Page">
                 </div>
             </div>
             <div class="col-sm-4 text-center">
                 <h3 style="border:0">플레이세븐</h3>
                 <div class="demo_box1">
-                    <img class="img-responsive" src="/public/assets/images/3.png" alt="Page">
+                    <img class="img-responsive" src="/public/assets/images/4.png" alt="Page">
                 </div>
             </div>
             <div class="col-sm-4 text-center">
                 <h3 style="border:0">플레이세븐 레포트</h3>
                 <div class="demo_box1">
-                    <img class="img-responsive" src="/public/assets/images/1.png" alt="Page">
+                    <img class="img-responsive" src="/public/assets/images/5.png" alt="Page">
                 </div>
             </div>
             <div class="col-sm-4 text-center">
                 <h3 style="border:0">골프패스 블로그</h3>
                 <div class="demo_box1">
-                    <img class="img-responsive" src="/public/assets/images/1.png" alt="Page">
+                    <img class="img-responsive" src="/public/assets/images/6.png" alt="Page">
                 </div>
             </div>
         </div>
