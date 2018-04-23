@@ -81,6 +81,9 @@
                         Upbringing type : operating an official blog 
                         Distributed type:  posting via blogger 
 					</p>
+                    <p style="width:500px; margin-top:60px;">
+                            <img src="/public/images/marketing_graph.png" style="width:500px;">
+                    </p>
 				</div> <!-- .cd-project-info -->
 			</li>
 
@@ -99,6 +102,9 @@
                         We have know-how to analyze effective keyword set-ups and the tendency of major customer segments.
                         ※ We only handle with NAVER, DAUM(KAKAO) 
 					</p>
+                    <p style="width:500px; margin-top:60px;">
+                            <img src="/public/images/keyword_ads.png" style="width:500px;">
+                    </p>
 				</div> <!-- .cd-project-info -->
 			</li>
 

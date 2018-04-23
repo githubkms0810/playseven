@@ -422,11 +422,11 @@ p {
 }
 
 .home-nav__list2 {
-    position: relative;
+    position: absolute;
     background-color: transparent;
     top: 18px;
     padding: 0;
-    right: -30%;
+    right: 20%;
 }
 
 .home-nav__list2 > li {

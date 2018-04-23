@@ -59,13 +59,13 @@ scrollTop: $('.container-contact100').offset().top
 				</div>
 
 				<div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="담당자를 입력해주세요.">
-					<span class="label-input100">Manager name</span>
+					<span class="label-input100">Name</span>
 					<input class="input100" type="text" name="manager" value="<?=DEBUG === true ? "테스트 담당자명": ""?>">
 					<span class="focus-input100"></span>
 				</div>
 
 				<div class="wrap-input100 rs1-wrap-input100 validate-input" data-validate="담당자 연락처를 입력해주세요.">
-					<span class="label-input100">Manager contacts</span>
+					<span class="label-input100">Phone no</span>
 					<input class="input100" type="text" name="manager_phone" value="<?=DEBUG === true ? "테스트 담당자 연락처": ""?>">
 					<span class="focus-input100"></span>
 				</div>
