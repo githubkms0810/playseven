@@ -65,15 +65,12 @@
                 <p style="margin-top:30px; font-size:18px">
                     1. Domestic major | More aggressive operational control through direct business alliance with general media (major journalist dedicated) <br> 2. PR size maximum floor size utilization and priority floor allocation <br> 3. Planning Articles | Eliminate unnecessary bubbles by optimizing the ad price of image ads <br> 4. Improve article quality by writing articles directly to journalist in charge of relevant media <br> 5. Alliance with more than 50 online media companies<br>
                 </p>
-                <p style="width:800px; margin-top:60px;">
-                    <img src="/public/images/press_progress.png" style="width:800px;">
-                </p>
 
 
                 <form action="/contact/add" method="post">
                     <div class="container">
                         <div class="form-wrapper">
-                            <h2>contact us</h2>
+                            <h2 style="font-size:20px;">contact us</h2>
                             <div class="row cf">
                                 <span>Your Name:</span>
                                 <input class="text-input" type="text" name="manager" id="text1">
@@ -196,7 +193,7 @@
                 <form action="/contact/add" method="post">
                     <div class="container">
                         <div class="form-wrapper">
-                            <h2>contact us</h2>
+                            <h2 style="font-size:20px;">contact us</h2>
                             <div class="row cf">
                                 <span>Your Name:</span>
                                 <input class="text-input" type="text" name="manager" id="text1">
@@ -212,16 +209,16 @@
                             <div class="row cf">
                                 <p style="margin:0;">Your Project:</p>
                                 <div class="three col">
-                                    <input type="checkbox" name="company_name" id="c1" value="<?=DEBUG === true ? " 테스트회사명 ": " "?>"><label class="checkbox-label" for="c1"><span class="text">Press release</span></label>
+                                    <input type="checkbox" name="company_name" id="c5" value="<?=DEBUG === true ? " 테스트회사명 ": " "?>"><label class="checkbox-label" for="c5"><span class="text">Press release</span></label>
                                 </div>
                                 <div class="three col">
-                                    <input type="checkbox" name="company_name" id="c2" value="<?=DEBUG === true ? " 테스트회사명 ": " "?>" checked><label class="checkbox-label" for="c2"><span class="text">Blog Marketing</span></label>
+                                    <input type="checkbox" name="company_name" id="c6" value="<?=DEBUG === true ? " 테스트회사명 ": " "?>" checked><label class="checkbox-label" for="c6"><span class="text">Blog Marketing</span></label>
                                 </div>
                                 <div class="three col">
-                                    <input type="checkbox" name="company_name" id="c3" value="<?=DEBUG === true ? " 테스트회사명 ": " "?>"><label class="checkbox-label" for="c3"><span class="text">Search Ads</span></label>
+                                    <input type="checkbox" name="company_name" id="c7" value="<?=DEBUG === true ? " 테스트회사명 ": " "?>"><label class="checkbox-label" for="c7"><span class="text">Search Ads</span></label>
                                 </div>
                                 <div class="three col">
-                                    <input type="checkbox" name="company_name" id="c4" value="<?=DEBUG === true ? " 테스트회사명 ": " "?>"><label class="checkbox-label" for="c4"><span class="text">Website Development</span></label>
+                                    <input type="checkbox" name="company_name" id="c8" value="<?=DEBUG === true ? " 테스트회사명 ": " "?>"><label class="checkbox-label" for="c8"><span class="text">Website Development</span></label>
                                 </div>
                             </div>
                             <div class="row cf">
@@ -263,7 +260,7 @@
                 <div class="why_searchad">
                     <div class="why_searchad_title">
                         <div class="why_searchad_text" style="padding:17px;">
-                        Accurate targeting
+                            Accurate targeting
                         </div>
                     </div>
                     <div class="why_searchad_info">
@@ -273,7 +270,7 @@
                 <div class="why_searchad">
                     <div class="why_searchad_title">
                         <div class="why_searchad_text">
-                        Possible to measure advertising efficiency
+                            Possible to measure advertising efficiency
                         </div>
                     </div>
                     <div class="why_searchad_info">
@@ -283,18 +280,17 @@
                 <div class="why_searchad">
                     <div class="why_searchad_title">
                         <div class="why_searchad_text">
-                        Efficient management of advertising operations
+                            Efficient management of advertising operations
                         </div>
                     </div>
                     <div class="why_searchad_info">
                         In case of keyword advertisement, different from other advertisement products, advertisement operation report can be executed in real-time for next day operation management, so that flexible advertisement management can be executed.
                     </div>
                 </div>
-                
+
                 <p style="width:500px; margin-top:60px;">
                     <img src="/public/images/keyword_ad.png" style="width:500px;">
                 </p>
-                
                 <p style="font-size:22px; width:800px; text-align:center; margin-top:30px; margin-bottom:30px">
                     Introduction to Naver Media Search Advertising
                 </p>
@@ -305,8 +301,7 @@
                     Up to 10 impressions of Powerlink area ads are exposed in the Naver Unified Search tab results. Visibility can also be set in a group strategy. Due to its location, ads are very popular.
                 </p>
                 <p style="margin-top:20px; font-size:18px">
-                    Mobile Power Link<br>
-                    Mobile Search is a product that displays advertisements on the integrated search result of mobile Naver (m.naver.com), a Naver mobile web service. Mobile Naver Unified Search has up to 3 to 5 ads per query on page 1, and up to 3 ads on pages 2 to 5.
+                    Mobile Power Link<br> Mobile Search is a product that displays advertisements on the integrated search result of mobile Naver (m.naver.com), a Naver mobile web service. Mobile Naver Unified Search has up to 3 to 5 ads per query on page 1, and up to 3 ads on pages 2 to 5.
                 </p>
                 <p style="margin-top:30px;">
                     <span style="width:800px; font-size:20px;">Biz site<br></span>
@@ -320,53 +315,80 @@
                 <p style="margin-top:20px; font-size:18px">
                     Content Search Ads can only be advertised on a specified keyword with the intent of the user seeking reliable information. The keyword list that can be advertised is provided by the Naver search ad. The content search ad is categorized as the 'information type' keyword indicating the service such as medical, finance, education and the 'product type' keyword related to the spot, such as furniture, cosmetics.
                 </p>
+                <p style="font-size:22px; width:800px; text-align:center; margin-top:60px; margin-bottom:-60px">
+                    Naver Power Contents
+                </p>
+
+
+
+
+
+
+
+
+
+                <section id="features" class="l-marketing-feature-briefs" data-url-path="features">
+                    <div class="marketing-feature-brief">
+                        <a href="#members" class="marketing-feature-brief__graphic js-scroll-link"><span class="marketing-feature-brief__graphic__inner marketing-feature-brief__graphic__inner--members">SE Search</span></a>
+                        <h2 class="marketing-feature-brief__heading"><a href="#payments" class="js-scroll-link">SE Search</a></h2>
+                        <p class="marketing-feature-brief__description">Naver SE Search (se.naver.com) Up to 5 of the Power Link area ads are exposed in the results.</p>
+                    </div>
+                    <div class="marketing-feature-brief">
+                        <a href="#booking" class="marketing-feature-brief__graphic js-scroll-link"><span class="marketing-feature-brief__graphic__inner marketing-feature-brief__graphic__inner--booking">Search Tab</span></a>
+                        <h2 class="marketing-feature-brief__heading"><a href="#booking" class="js-scroll-link">Naver Shopping Mobile Search Tab</a></h2>
+                        <p class="marketing-feature-brief__description">When you click on the blogs, knowledge iN, cafe tabs at the bottom of the Unified Search tab, you'll see up to three ads in the Power Links area at the top.</p>
+                    </div>
+                    <div class="marketing-feature-brief">
+                        <a href="#payments" class="marketing-feature-brief__graphic js-scroll-link"><span class="marketing-feature-brief__graphic__inner marketing-feature-brief__graphic__inner--payments">Naver Shopping</span></a>
+                        <h2 class="marketing-feature-brief__heading"><a href="#members" class="js-scroll-link">Naver Shopping</a></h2>
+                        <p class="marketing-feature-brief__description">Naver Shopping (shopping.naver.com) Up to 5 ads are displayed at the bottom of the search results.</p>
+                    </div>
+                    <div class="marketing-feature-brief">
+                        <a href="#directory" class="marketing-feature-brief__graphic js-scroll-link"><span class="marketing-feature-brief__graphic__inner marketing-feature-brief__graphic__inner--directory">Naver Shopping Mobile</span></a>
+                        <h2 class="marketing-feature-brief__heading"><a href="#directory" class="js-scroll-link">Naver Shopping Mobile</a></h2>
+                        <p class="marketing-feature-brief__description">
+                            Mobile Naver Shopping (m.shopping.naver.com) Up to 3 ads are displayed at the bottom of search results.</p>
+                    </div>
+                </section>
+
+
+
+
+
+
+
+                <p style="font-size:22px; width:800px; text-align:center; margin-top:30px; margin-bottom:30px">
+                    Daum & Nate Media Search Ads Introduction
+                </p>
                 <p style="margin-top:30px;">
-                    <span style="width:800px; font-size:20px;">Naver Power Content<br></span>
+                    <span style="width:800px; font-size:20px;">Premium Links & Wild Links<br></span>
                 </p>
                 <p style="margin-top:20px; font-size:18px">
-                    SE Search<br>
-                    Naver SE Search (se.naver.com) Up to 5 of the Power Link area ads are exposed in the results.
-                </p>
-                <p style="margin-top:20px; font-size:18px">
-                    Naver Shopping Mobile<br>
-                    Mobile Naver Shopping (m.shopping.naver.com) Up to 3 ads are displayed at the bottom of search results.
-                </p>
-                <p style="margin-top:20px; font-size:18px">
-                    Naver Shopping<br>
-                    Naver Shopping (shopping.naver.com) Up to 5 ads are displayed at the bottom of the search results.
-                </p>
-                <p style="margin-top:20px; font-size:18px">
-                    Search Tab<br>
-                    When you click on the blogs, sites, web documents, knowledge iN, cafe tabs at the bottom of the Unified Search tab, you'll see up to three ads in the Power Links area at the top. Search You can enlarge the exposure area to suit your needs.
+                    Premium links are exposed to the search network, including major portal sites such as Daum, Nate, and Bing. It is exposed under premium links to search networks, including major portal sites such as Daum, Nate, and Bing.
                 </p>
                 <p style="margin-top:30px;">
-                    <span style="width:800px; font-size:20px;">Click Choice Plus<br></span>
+                    <span style="width:800px; font-size:20px;">Special Links & Sponsored Boxes<br></span>
                 </p>
                 <p style="margin-top:20px; font-size:18px">
-                    Provide a good advertising UI to check even in small mobile environment such as a nice additional information icon to utilize preview function for specific (hair shop, pension, interior, etc.) industry in Naver
+                    Nate's special links and sponsored boxes are not CPC advertising items, but items that are purchased by period.
                 </p>
                 <p style="margin-top:30px;">
-                    <span style="width:800px; font-size:20px;">Click-Choice Product Ads<br></span>
+                    <span style="width:800px; font-size:20px;">Premium Mobile Ads<br></span>
                 </p>
                 <p style="margin-top:20px; font-size:18px">
-                    When a maximum of 9 advertisements are exposed in the upper area of Naver Mobile Mobile Search page, categories are specified instead of keyword registration.
+                    Daum, Nate, and affiliated mobile web / apps expose up to three ads in the mobile search results, premium link area. * Some keywords may show up to 5 ads.
                 </p>
                 <p style="margin-top:30px;">
-                    <span style="width:800px; font-size:20px;">Shopping Search Ads</span>
+                    <span style="width:800px; font-size:20px;">Daum Shopping CPC ad<br></span>
                 </p>
                 <p style="margin-top:20px; font-size:18px">
-                    PC<br>
-                    Up to 9 ads will be exposed in the upper area of Naver Mobile's integrated search page, and category designation will be applied instead of keyword registration.
+                    MO_Top Shopping is a mobile top shop tab for shoppers, exposed as a mix of items exposed in a category unit.
                 </p>
-                <p style="margin-top:20px; font-size:18px">
-                    Mobile<br>
-                    Unlike Site Search Ads (Powerlink type), which advertise and display ads by keyword, Shopping Search Ads are advertisements that expose products that are already exposed to Naver Shopping to the top of the shopping area.
-                </p>       
-                
+
                 <form action="/contact/add" method="post">
                     <div class="container">
                         <div class="form-wrapper">
-                            <h2>contact us</h2>
+                            <h2 style="font-size:20px;">contact us</h2>
                             <div class="row cf">
                                 <span>Your Name:</span>
                                 <input class="text-input" type="text" name="manager" id="text1">
@@ -382,16 +404,16 @@
                             <div class="row cf">
                                 <p style="margin:0;">Your Project:</p>
                                 <div class="three col">
-                                    <input type="checkbox" name="company_name" id="c1" value="<?=DEBUG === true ? " 테스트회사명 ": " "?>"><label class="checkbox-label" for="c1"><span class="text">Press release</span></label>
+                                    <input type="checkbox" name="company_name" id="c9" value="<?=DEBUG === true ? " 테스트회사명 ": " "?>"><label class="checkbox-label" for="c9"><span class="text">Press release</span></label>
                                 </div>
                                 <div class="three col">
-                                    <input type="checkbox" name="company_name" id="c2" value="<?=DEBUG === true ? " 테스트회사명 ": " "?>" checked><label class="checkbox-label" for="c2"><span class="text">Blog Marketing</span></label>
+                                    <input type="checkbox" name="company_name" id="c10" value="<?=DEBUG === true ? " 테스트회사명 ": " "?>" checked><label class="checkbox-label" for="c10"><span class="text">Blog Marketing</span></label>
                                 </div>
                                 <div class="three col">
-                                    <input type="checkbox" name="company_name" id="c3" value="<?=DEBUG === true ? " 테스트회사명 ": " "?>"><label class="checkbox-label" for="c3"><span class="text">Search Ads</span></label>
+                                    <input type="checkbox" name="company_name" id="c11" value="<?=DEBUG === true ? " 테스트회사명 ": " "?>"><label class="checkbox-label" for="c11"><span class="text">Search Ads</span></label>
                                 </div>
                                 <div class="three col">
-                                    <input type="checkbox" name="company_name" id="c4" value="<?=DEBUG === true ? " 테스트회사명 ": " "?>"><label class="checkbox-label" for="c4"><span class="text">Website Development</span></label>
+                                    <input type="checkbox" name="company_name" id="c12" value="<?=DEBUG === true ? " 테스트회사명 ": " "?>"><label class="checkbox-label" for="c12"><span class="text">Website Development</span></label>
                                 </div>
                             </div>
                             <div class="row cf">
