@@ -99,10 +99,6 @@
                                 </div>
                             </div>
                             <div class="row cf">
-                                <span>Your Budget: £<span class="budget-text">300</span></span>
-                                <input type="range" id="budget" min="0" value="300" max="1000" step="100">
-                            </div>
-                            <div class="row cf">
                                 <div class="message">Add a Message</div>
                                 <textarea name="desc" id="t1"></textarea>
                             </div>
@@ -112,17 +108,8 @@
                         </div>
                     </div>
                 </form>
-
-                <script>
-                    $(document).on('input change', '#budget', function() {
-                        $('.budget-text').html($(this).val());
-                    });
-
-                </script>
-
-
-
-
+                
+                
             </div>
             <!-- .cd-project-info -->
         </li>
@@ -220,10 +207,6 @@
                                 <div class="three col">
                                     <input type="checkbox" name="company_name" id="c8" value="<?=DEBUG === true ? " 테스트회사명 ": " "?>"><label class="checkbox-label" for="c8"><span class="text">Website Development</span></label>
                                 </div>
-                            </div>
-                            <div class="row cf">
-                                <span>Your Budget: £<span class="budget-text">300</span></span>
-                                <input type="range" id="budget" min="0" value="300" max="1000" step="100">
                             </div>
                             <div class="row cf">
                                 <div class="message">Add a Message</div>
@@ -415,10 +398,6 @@
                                 <div class="three col">
                                     <input type="checkbox" name="company_name" id="c12" value="<?=DEBUG === true ? " 테스트회사명 ": " "?>"><label class="checkbox-label" for="c12"><span class="text">Website Development</span></label>
                                 </div>
-                            </div>
-                            <div class="row cf">
-                                <span>Your Budget: £<span class="budget-text">300</span></span>
-                                <input type="range" id="budget" min="0" value="300" max="1000" step="100">
                             </div>
                             <div class="row cf">
                                 <div class="message">Add a Message</div>
