@@ -540,13 +540,15 @@ p {
     /*background: rgba(255, 255, 255, 0.25);*/
     height: 100%;
     width: 100%;
-    background-image: url(/public/images/section0_bg.png);
+    background-image: url(/public/images/section0_bg.jpg);
     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .intro {
-    padding-top: 15%;
-    margin: 0 auto;
+    padding-top: 13%;
+    padding-left: 15%;
     width:800px;
 }
 
@@ -579,7 +581,6 @@ p {
 .intro-btn {
     background-image: url(/public/images/main-section-0_btn.png);
     background-repeat: no-repeat;
-    margin: 0 auto;
     width: 220px;
 }
 

@@ -61,15 +61,15 @@
 
                 <div class="intro">
                     <div class="intro-title">
-                        <img src="/public/images/main-section-1_txt.png">
+                        <!--<img src="/public/images/main-section-1_txt.png">-->
                     </div>
-                    <div class="intro-btn">
+                    <!--<div class="intro-btn">
                         <!--<a href="javascript:void(0)" onclick="document.getElementById('light').style.display='block';document.getElementById('fade').style.display='block'">-->
-                        <a href="#">
+                        <!--<a href="#">
                             <div class="intro-btn_portfolio">
                             </div>
                         </a>
-                    </div>
+                    </div>-->
 
                 </div>
             </div>
@@ -95,7 +95,7 @@
                     <div class="about-title">
                         <img src="/public/images/main-section-2_txt.png">
                         <div class="about-btn">
-                            <a href="/playseven_web/index_web" target="_blank">
+                            <a href="/playseven_web/index_web">
                                 <div class="about-btn_portfolio">
                                 </div>
                             </a>
