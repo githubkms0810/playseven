@@ -26,7 +26,7 @@ class Base extends \Base_Controller {
                 my_redirect($this->referer);
             }
             else{
-                alert("제휴 신청이 완료 되었습니다. 연락 드리겠습니다.\\r메인페이지로 이동합니다.");
+                alert("Your application is complete. I will contact you. \\rGo to the main page.");
                 my_redirect("/");
             }
         }

@@ -40,8 +40,7 @@ scrollTop: $('.container-contact100').offset().top
 			<button class="contact100-btn-hide" onclick="changeZIndexBySelector(0,'.container-contact100');">
 				<i class="fa fa-close" aria-hidden="true"></i>
 			</button>
-
-			<form action="/contact/add" method="post" class="contact100-form validate-form">
+			<form action="Mailto:sbin910@playseven.co.kr" enctype="text/plain" method="post" class="contact100-form validate-form">
 				<span class="contact100-form-title" style="font-weight:bold;">
 					Contact us
 				</span>
