@@ -25,7 +25,17 @@ class Base extends \Base_Controller {
                 alert("추가 실패.ERRORCODE :".transectionError);
                 my_redirect($this->referer);
             }
+            
+            
             else{
+                
+                $this->load->library("email");
+                
+                $this->email->from = "admin";
+                
+                $this->email->send_email("sbin910@gmail.com","플레이세븐", "제휴신청페이지확인바람");
+                
+                
                 alert("Your application is complete. I will contact you. \\rGo to the main page.");
                 my_redirect("/");
             }
