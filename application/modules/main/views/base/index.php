@@ -186,7 +186,7 @@
             </div>
         </div>
     </div>
-    <div class="section moveDown" id="section3">
+    <!--<div class="section moveDown" id="section3">
         <div class="footer">
             <div class="footer_content">
                 <a href="http://golfpass.net/" target="_blank"><img src="/public/images/main-footer.png"></a>
@@ -208,7 +208,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div>-->
 </div>
 
 <script src="js/slider.js"></script>
