@@ -87,11 +87,11 @@
                                                 <a href="/playseven_web/index_web">web agency</a>
                                             </span>
                                         </li>
-                                        <li class="nav__item">
+                                        <!--<li class="nav__item">
                                             <span class="nav__item-text">
                                                 <a href="/playseven_marketing/index_marketing">golf business</a>
                                             </span>
-                                        </li>
+                                        </li>-->
                                         <li class="nav__item">
                                             <span class="nav__item-text">
                                                 <a href="/contact/add">contact us</a>
