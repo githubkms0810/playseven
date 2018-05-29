@@ -113,9 +113,11 @@
     <div class="intro-wrapper">
         <div class="product-intro">
             <div>
-                <h1 class="item item-1">Information retrieval and evaluation sites of all golf courses in the world</h1>
+                <h1 class="item item-1">Information search and evaluation sites of all golf courses in the world
+                </h1>
 
-                <p class="item item-2">You can see various information of 35,000 golf courses at a glance. Provide information through user's direct golf evaluation and reviews. Before selecting a golf course, search for golf course information on the Golfpass.net</p>
+                <p class="item item-2">You can check out various information of 35,000 golf courses in a single view. The site provides information through user's direct evaluation and reviews. Before choosing a golf course, search for golf course information on the Golfpass.net
+                </p>
 
                 <a href="http://golfpass.net/" target="_blank" class="cd-btn item item-3">GO</a>
                 <a href="https://youtu.be/XwtX5ABOOww" target="_blank" class="cd-btn item item-3" style="background-color:#393939;">watch video</a>
@@ -127,7 +129,7 @@
             <div class="device-frame"><img src="/public/images/mobile-frame.svg" alt="Device Frame"></div>
 
             <div class="product-image">
-                <img src="/public/images/video-fallback.jpg" alt="Product Preview">
+                <img src="/public/images/video-fallback.png" alt="Product Preview">
             </div>
 
             <div class="product-video" data-video="/public/video/video.mp4">

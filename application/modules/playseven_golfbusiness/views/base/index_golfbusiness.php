@@ -50,20 +50,28 @@
 
             <div class="cd-project-info">
                 <p style="font-size:18px">
-                    It is an advanced marketing method that uses the credibility of the media as a means of publicity. It is an effective publicity method that exposes corporate information, goods and services in media articles and expects the image and reliability of the brand to rise. As a result of being exposed to news articles through the online and offline exposure of the news articles, it is less likely to be rejected by the customers, and the advertising awareness is high as it is distributed to the news articles. It is exposed through the news categories of portal sites such as Naver / Daum(kakao) / Nate In addition, we can plan and operate a small-scale and large-scale press conference.
+                    Press release is an advanced marketing method that uses the credibility of the media as a means of publicity.
+                    <BR>
+                    <BR> It is an effective publicity method that exposes corporate information, goods and services in media articles, such as new categories of portal sites (Naver/Daum(kakao)/Nate)<br> The expected return of the press release is making a better image and reliability of the brand.<br> Being exposed to news articles through the online and offline exposure of the news articles, it is less likely to be rejected by the customers, and the advertising awareness is high as it is ributed to the news articles.
+                    <BR>
+                    <BR> In addition, we can plan and operate a small-scale and large-scale press conference.
+
+
                 </p>
                 <p style="width:500px; margin-top:60px;">
                     <img src="/public/images/diffrence.png" style="width:500px;">
                 </p>
                 <p style="margin-top:60px;">
-                    <span style="width:800px; text-align:center; font-size:20px;">Differentiation of IT's consulting<br></span>
+                    <span style="width:800px; text-align:center; font-size:20px;">Differentiaion of IT's consulting<br></span>
                 </p>
 
                 <p style="margin-top:30px; font-size:18px">
-                    Direct communication with domestic major / general media companies !!<br> By publishing a wide range of pages with greater operational capabilities and acting as an agent through its own network, we are publishing articles with competitive operation with cheaper, higher quality articles than any PR agency by significantly reducing the costs of planning articles.
+                    Direct communication with the local major/general press!!
+                    <br>By publishing a wide range of pages with greater operational capabilities and acting as a proxy through its own network, we publish articles with cheaper, higher-quality articles than any PR agency by significantly reducing the cost of planning articles.
+
                 </p>
                 <p style="margin-top:30px; font-size:18px">
-                    1. Domestic major | More aggressive operational control through direct business alliance with general media (major journalist dedicated) <br> 2. PR size maximum floor size utilization and priority floor allocation <br> 3. Planning Articles | Eliminate unnecessary bubbles by optimizing the ad price of image ads <br> 4. Improve article quality by writing articles directly to journalist in charge of relevant media <br> 5. Alliance with more than 50 online media companies<br>
+                    1. More active control through direct business alliance with local major | general media (Former journalist from major media is dedicated)<br> 2. Prioritized allocation and use of maximum size of the paper that PR company can provide<br> 3. Eliminating any unnecessary budget by providing optimized unit price of planning articles and image advertisement<br> 4. Improve the quality of the article by directly working on draft with the relevant media journalist<br> 5. Business alliance with approximately 50 online media<br>
                 </p>
 
 
@@ -108,8 +116,8 @@
                         </div>
                     </div>
                 </form>
-                
-                
+
+
             </div>
             <!-- .cd-project-info -->
         </li>
@@ -123,17 +131,24 @@
 
             <div class="cd-project-info">
                 <p style="font-size:18px">
-                    Viral marketing is a way to enhance brand image, service reliability and value through interactive communication between advertisers and consumers through useful channels in Korea such as blogs, intellectuals, cafes, and SNS Smart clients today do not trust advertisers' unilateral favoritism Especially, in case of overseas service industry, customers who have limited information are considered as the most important reference factor when selecting people who have visited directly. In Korea, local portal sites such as NAVER, DAUM (KAKAO), and NATE are very influential, and there are blog platforms that have different characteristics and they should be used to suit the characteristics of advertisers Upbringing type : operating an official blog Distributed type: posting via blogger
+                    Viral marketing is a way to enhance brand image, service reliability and value through interactive communication between advertisers and consumers using diverse channels in Korea such as blogs, intellectuals, cafes, and SNS Smart clients today do not trust advertisers' unilateral favoritism Especially, in cases of overseas service industry, customers who have limited access to information, consider the information from the people who have visited directly, as the most important reference factor.
+                    <BR>
+                    <BR> In Korea, local portal sites such as NAVER, DAUM (KAKAO), and NATE are very influential, and there are blog platforms that have different characteristics to suit each unique characteristics of advertisers
+                    <BR>
+                    <BR>Promotional type : operating an official blog
+                    <BR>Affiliate type: posting via blogger
+
+
                 </p>
                 <div class="blog_percent">
                     <div style="margin-top:60px; font-size:18px; display:inline-block; width:49%; border-right:solid 1px #f0f0f0;">
                         <div class="circle1">
                             <span class="text1">
                                 <span style="width:800px; text-align:center; font-size:20px; margin-bottom:5px;">
-                                    Purchase rate <br>through review is 78%<br><hr>                            
+                                    Buying rate<br>through review : 78%<br><hr>                            
                                 </span>
                             <span>
-                                Domestic consumers of 78% buy through recommendation of buyers, online purchase, review etc.<br>&nbsp;
+                               78% of local consumers purchase through other consumers recommendation or reviews and opinions from online<br>&nbsp;
                                 </span>
                             </span>
                         </div>
@@ -141,11 +156,10 @@
                     <div style="margin-top:60px; font-size:18px; display:inline-block; width:49%;">
                         <div class="circle1">
                             <span class="text2">
-                                <span style="width:800px; text-align:center; font-size:20px; margin-bottom:5px;">
-                                Blog access rate<br>after search is 41%<br><hr>                            
+                                <span style="width:800px; text-align:center; font-size:20px; margin-bottom:5px;">Access to blogs<br>after search : 41%<br><hr>                            
                                 </span>
                             <span>
-                               According to the Korea Internet Development Agency survey, 41% of Korean consumers move to blog after searching portal.
+                               According to Korea Internet & Security Agency, 41% of local consumers move to blogs after internet surfing
                                 </span>
                             </span>
                         </div>
@@ -153,28 +167,32 @@
                 </div>
 
                 <p style="margin-top:60px;">
-                    <span style="width:800px; text-align:center; font-size:20px;">Viral marketing service type</span>
+                    <span style="width:800px; text-align:center; font-size:20px;">Types of viral marketing service
+                    </span>
                 </p>
                 <p style="margin-top:30px;">
-                    <span style="width:800px; text-align:center; font-size:20px;">Official blog (upbringing type)<br></span>
+                    <span style="width:800px; text-align:center; font-size:20px;">Official blog(promotional type)<br></span>
                 </p>
                 <p style="margin-top:20px; font-size:18px">
-                    ONE-STOP management from category formation to posting management<br> One official / operation blog can be created, so design, category formation and posting management suitable for company or product service can be used as a second homepage in the way of ONE-STOP.
+                    One-stop management, from creating categories to managing the postings<br>This service is to support your business from creating an officially operated blog to form a design and categories that suits best for you or goods services you provide, to managing the postings.(ONE-STOP type)<br> This can also be re-used for your 2nd business homepage.
+
+
                 </p>
                 <p style="margin-top:30px;">
-                    <span style="width:800px; text-align:center; font-size:20px;">Blog (spread type)<br></span>
+                    <span style="width:800px; text-align:center; font-size:20px;">Blog (affiliate type)<br></span>
                 </p>
                 <p style="margin-top:20px; font-size:18px">
-                    Blog posting distribution<br>Diffuse blog (reporters) is a service that realizes the exposure by distributing a large amount of contents based on the target keyword of the content creation schedule target keyword by real review through actual review about the company, product, and service.
+                    Blog posting distribution<br>Affiliate blogs (affiliate bloggers) is a service that returns the impact of the exposure by distributing a large amount of contents based on a certain target keywords.<br>The bloggers post real live reviews about the company, product, and service.
+
                 </p>
                 <p style="width:500px; margin-top:60px;">
                     <img src="/public/images/marketing_graph.png" style="width:500px;">
                 </p>
                 <p style="margin-top:30px;">
-                    <span style="width:800px; text-align:center; font-size:20px;">Play Seven's viral marketing<br></span>
+                    <span style="width:800px; text-align:center; font-size:20px;">Viral marketing of Playseven<br></span>
                 </p>
                 <p style="margin-top:20px; font-size:18px">
-                    1. Play Seven always has the best know-how and MAN POWER and always differentiates its strategy from others.<br>2. We are constantly working to provide creative content that does not create copy and low-quality content.<br>3. We provide planning that can create synergy through linking strategies for each product.
+                    1. Playseven has the best know-hows and MAN POWER and always differentiates its strategies from others competitors.<br>2. We constantly try our best to provide creative contents that is not copied or is low quality.<br>3. We provide plans that can create synergy through connecting strategies for each products.
                 </p>
 
                 <form action="/contact/add" method="post">
@@ -232,7 +250,10 @@
 
             <div class="cd-project-info">
                 <p style="font-size:18px">
-                    Search ads use the best search terms through industry type and market / user analysis, and provide quick access to advertisers' goals. Pull-type merchandise is the most popular among all online and offline ads. It is basically a popular online advertising method. We have know-how to analyze effective keyword set-ups and the tendency of major customer segments. ※ We only handle with NAVER, DAUM(KAKAO)
+                    Search ads use the best search terms through industry type and market / user analysis, and provide quick access to advertisers' goals.<br> Pull-type merchandise is the most popular among all online and offline ads. It is basically the most popular online advertising method. We have know-how to analyze effective keyword set-ups and the tendency of major customer segments.
+                    <BR>
+                    <BR>※ We only handle with NAVER, DAUM(KAKAO)
+
                 </p>
                 <p style="width:500px; margin-top:60px;">
                     <img src="/public/images/keyword_ads.png" style="width:500px;">
@@ -247,27 +268,28 @@
                         </div>
                     </div>
                     <div class="why_searchad_info">
-                        Search ads are not ads that are exposed to an unspecified number of people, but are ads that users can use to express their opinions to users.
+                        Search advertsing is exposing only the keywords that user wants to practical users, rather than unspecified individuals.
                     </div>
                 </div>
                 <div class="why_searchad">
                     <div class="why_searchad_title">
                         <div class="why_searchad_text">
-                            Possible to measure advertising efficiency
+                            Advertisement effectiveness measurement
                         </div>
                     </div>
                     <div class="why_searchad_info">
-                        You can incorporate all data from your ad impressions, influx, premiums, site page influenza data, and online signups, carts, and purchases to your collection ad operations.
+                        Reflect every collected data through online, from ad exposure, influx, premiums to site page influx data, online registration, carts, and purchase, to your ad operations.
                     </div>
                 </div>
                 <div class="why_searchad">
                     <div class="why_searchad_title">
                         <div class="why_searchad_text">
-                            Efficient management of advertising operations
+                            Effective advertisement operation and management
+
                         </div>
                     </div>
                     <div class="why_searchad_info">
-                        In case of keyword advertisement, different from other advertisement products, advertisement operation report can be executed in real-time for next day operation management, so that flexible advertisement management can be executed.
+                        In the case of keyword advertisement, advertisement operation report can be executed the next day, and operation management can be executed in real time which helps to operate in a flexible manner and differentiates from other advertisement services.
                     </div>
                 </div>
 
@@ -275,28 +297,30 @@
                     <img src="/public/images/keyword_ad.png" style="width:500px;">
                 </p>
                 <p style="font-size:22px; width:800px; text-align:center; margin-top:30px; margin-bottom:30px">
-                    Introduction to Naver Media Search Advertising
+                    Introducing Naver searching advertisement
                 </p>
                 <p style="margin-top:30px;">
                     <span style="width:800px; font-size:20px;">Power Link<br></span>
                 </p>
                 <p style="margin-top:20px; font-size:18px">
-                    Up to 10 impressions of Powerlink area ads are exposed in the Naver Unified Search tab results. Visibility can also be set in a group strategy. Due to its location, ads are very popular.
+                    Up to 10 powerlinks can be exposed on the Naver search tab results. Exposure can be set in a group strategy. Visitors' attention is very high due to its position.
                 </p>
                 <p style="margin-top:20px; font-size:18px">
-                    Mobile Power Link<br> Mobile Search is a product that displays advertisements on the integrated search result of mobile Naver (m.naver.com), a Naver mobile web service. Mobile Naver Unified Search has up to 3 to 5 ads per query on page 1, and up to 3 ads on pages 2 to 5.
+                    Mobile Power Link<br> Mobile search is a service that expose the ad on the search results page of Naver mobile web service, mobile naver(m.naver.com). On the first page of mobile naver search page, up to 3-5 ads are exposed and 3 ads on 2-5 pages.
                 </p>
                 <p style="margin-top:30px;">
                     <span style="width:800px; font-size:20px;">Biz site<br></span>
                 </p>
                 <p style="margin-top:20px; font-size:18px">
-                    In Naver integrated search, up to 5 is exposed below the power link
+                    Up to 5 biz sites are exposed under the powerlinks on Naver search tab results.
+
                 </p>
                 <p style="margin-top:30px;">
                     <span style="width:800px; font-size:20px;">Power content<br></span>
                 </p>
                 <p style="margin-top:20px; font-size:18px">
-                    Content Search Ads can only be advertised on a specified keyword with the intent of the user seeking reliable information. The keyword list that can be advertised is provided by the Naver search ad. The content search ad is categorized as the 'information type' keyword indicating the service such as medical, finance, education and the 'product type' keyword related to the spot, such as furniture, cosmetics.
+                    Contents search advertisement is only available through designated keywords that holds the users intention of finding reliable information. Available keyword list for advertisement is provided from Naver search ad. Services that includes medical, finance, and education is classified as "information" keyword and merchandises that includes furniture, cosmetics, foods etc. is classified as "commodity" keyword
+
                 </p>
                 <p style="font-size:22px; width:800px; text-align:center; margin-top:60px; margin-bottom:-60px">
                     Naver Power Contents
@@ -314,23 +338,24 @@
                     <div class="marketing-feature-brief">
                         <a href="#members" class="marketing-feature-brief__graphic js-scroll-link"><span class="marketing-feature-brief__graphic__inner marketing-feature-brief__graphic__inner--members">SE Search</span></a>
                         <h2 class="marketing-feature-brief__heading"><a href="#payments" class="js-scroll-link">SE Search</a></h2>
-                        <p class="marketing-feature-brief__description">Naver SE Search (se.naver.com) Up to 5 of the Power Link area ads are exposed in the results.</p>
+                        <p class="marketing-feature-brief__description">Up to 5 powerlinks are exposed on Naver SE search(se.naver.com) results.
+                        </p>
                     </div>
                     <div class="marketing-feature-brief">
                         <a href="#booking" class="marketing-feature-brief__graphic js-scroll-link"><span class="marketing-feature-brief__graphic__inner marketing-feature-brief__graphic__inner--booking">Search Tab</span></a>
                         <h2 class="marketing-feature-brief__heading"><a href="#booking" class="js-scroll-link">Naver Shopping Mobile Search Tab</a></h2>
-                        <p class="marketing-feature-brief__description">When you click on the blogs, knowledge iN, cafe tabs at the bottom of the Unified Search tab, you'll see up to three ads in the Power Links area at the top.</p>
+                        <p class="marketing-feature-brief__description">Up to 3 ads are exposed on the top powerlink area when you click blog, site, web documents, Knowledge iN, Café tabs located on the bottom of search tab.</p>
                     </div>
                     <div class="marketing-feature-brief">
                         <a href="#payments" class="marketing-feature-brief__graphic js-scroll-link"><span class="marketing-feature-brief__graphic__inner marketing-feature-brief__graphic__inner--payments">Naver Shopping</span></a>
                         <h2 class="marketing-feature-brief__heading"><a href="#members" class="js-scroll-link">Naver Shopping</a></h2>
-                        <p class="marketing-feature-brief__description">Naver Shopping (shopping.naver.com) Up to 5 ads are displayed at the bottom of the search results.</p>
+                        <p class="marketing-feature-brief__description">Up to 5 ads are exposed on the bottom of the Naver shopping(shopping.naver.com) search results.</p>
                     </div>
                     <div class="marketing-feature-brief">
                         <a href="#directory" class="marketing-feature-brief__graphic js-scroll-link"><span class="marketing-feature-brief__graphic__inner marketing-feature-brief__graphic__inner--directory">Naver Shopping Mobile</span></a>
                         <h2 class="marketing-feature-brief__heading"><a href="#directory" class="js-scroll-link">Naver Shopping Mobile</a></h2>
                         <p class="marketing-feature-brief__description">
-                            Mobile Naver Shopping (m.shopping.naver.com) Up to 3 ads are displayed at the bottom of search results.</p>
+                            Up to 3 ads are exposed on the bottom of the mobile Naver shopping(m.shopping.naver.com) search results.</p>
                     </div>
                 </section>
 
@@ -341,31 +366,32 @@
 
 
                 <p style="font-size:22px; width:800px; text-align:center; margin-top:30px; margin-bottom:30px">
-                    Daum & Nate Media Search Ads Introduction
+                    Introducing Daum&Nate searching advertisement
                 </p>
                 <p style="margin-top:30px;">
                     <span style="width:800px; font-size:20px;">Premium Links & Wild Links<br></span>
                 </p>
                 <p style="margin-top:20px; font-size:18px">
-                    Premium links are exposed to the search network, including major portal sites such as Daum, Nate, and Bing. It is exposed under premium links to search networks, including major portal sites such as Daum, Nate, and Bing.
+                    Premium link is exposed to all search engines including main portal sites such as Daum, Nate, Bing.
                 </p>
                 <p style="margin-top:30px;">
                     <span style="width:800px; font-size:20px;">Special Links & Sponsored Boxes<br></span>
                 </p>
                 <p style="margin-top:20px; font-size:18px">
-                    Nate's special links and sponsored boxes are not CPC advertising items, but items that are purchased by period.
+                    Special link and sponser box that is operated by Nate, is not a CPC advertising service but a periodical space puchasing service that is exposed with the Daum search results.
                 </p>
                 <p style="margin-top:30px;">
                     <span style="width:800px; font-size:20px;">Premium Mobile Ads<br></span>
                 </p>
                 <p style="margin-top:20px; font-size:18px">
-                    Daum, Nate, and affiliated mobile web / apps expose up to three ads in the mobile search results, premium link area. * Some keywords may show up to 5 ads.
+                    Up to 3 ads are exposed in the premium link area, as a result of mobile searching on diverse mobile web/app such as Daum, Nate and those in alliance with them. *Up to 5 ads can be exposed for some keywords.
                 </p>
                 <p style="margin-top:30px;">
                     <span style="width:800px; font-size:20px;">Daum Shopping CPC ad<br></span>
                 </p>
                 <p style="margin-top:20px; font-size:18px">
-                    MO_Top Shopping is a mobile top shop tab for shoppers, exposed as a mix of items exposed in a category unit.
+                    MO_Top shopping is a service that exposes the results with category-based contents within Daum Top Shopping tap which is a mobile for shoppers
+
                 </p>
 
                 <form action="/contact/add" method="post">

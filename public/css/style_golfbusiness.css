@@ -589,8 +589,8 @@ li.selected .cd-project-title,
 .circle1 {
     border-radius: 50%;
     border: solid;
-    width: 250px;
-    height: 250px;
+    width: 260px;
+    height: 260px;
     margin: 0 auto;
     display: table;
 }
@@ -598,14 +598,14 @@ li.selected .cd-project-title,
 .text1 {
     display: table-cell;
     vertical-align: middle;
-    padding: 13px;
+    padding: 18px;
     text-align: center;
 }
 
 .text2 {
     display: table-cell;
     vertical-align: middle;
-    padding: 13px;
+    padding: 30px;
     text-align: center;
 }
 
